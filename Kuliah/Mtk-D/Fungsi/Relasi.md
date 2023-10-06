@@ -1,0 +1,4 @@
+Relasi
+[[Biner]]
+[[Menghantar]]
+,[[Symetric]]

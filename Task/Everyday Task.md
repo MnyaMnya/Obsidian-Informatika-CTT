@@ -1,0 +1,3 @@
+- [ ] Cuci Piring 🔁 every day
+- [ ] Masak Nasi 🔁 every day
+- [ ] Masak Air 🔼 🔁 every day

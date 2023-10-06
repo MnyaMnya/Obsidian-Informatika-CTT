@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"group","id":"1535fcab0386b3fd","x":142,"y":-10,"width":400,"height":400,"label":"Untitled group"},
+		{"id":"ec21528d270e222c","x":194,"y":12,"width":250,"height":60,"type":"text","text":"Tes"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "d8ddf1a52c3262b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "39444e54be9e7f53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703e0b3d913f4e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07dd735274e313ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d837754655931777",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "8980b354cfeb5a14",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe7092a73c1b0d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f444b9430dc59102",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae2ca0fb5bff3f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd904e5f70e66f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f859647589792a49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#include",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5869aa1fecdfd2b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "069a5c38546c1cdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c41cebc5cf4828df",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb4a537a5cfc379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ed5b80e20f91c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a02c7ffa8434d5ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b324437682bd7460",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa255ffe3427d6bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          },
+          {
+            "id": "90f056da2db25db7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "05c72cef123f2f5f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d830e330ad77c902",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "f393aeeb465eee88",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9614639ea966506a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "5cd904e5f70e66f7",
+  "lastOpenFiles": [
+    "Untitled",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
+    "Kuliah/Jaringan Komputer/Kabel Lan.md",
+    "Kuliah/Kating/Non Informatika FTI DATA.md",
+    "Kuliah/Jaringan Komputer/Networking/Networking.md",
+    "img/1 wbYRk65-lnwsWYSFJ656xw.png",
+    "Kuliah/Jaringan Komputer/Networking",
+    "Kuliah/English/Common tense.md",
+    "Kuliah/English/Common tense/Simple Present Tense.md",
+    "Kuliah/English/Common tense/Future Tense.md",
+    "img/simple_present_tense 1.png",
+    "img/simple_present_tense.png",
+    "img/simple-present-tense.png",
+    "Kuliah/English/Part of speech.md",
+    "Kuliah/English/English.md",
+    "Kuliah/Bahasa Indonesia/Bahasa Indonesia.md",
+    "Kuliah/Aljabar linear/Operasi baris elementer.md",
+    "Kuliah/Aljabar linear/Aljabar linear.md",
+    "Kuliah/Aljabar linear/matriks identitas.md",
+    "Kuliah/Aljabar linear/Untitled.md",
+    "Kuliah/Aljabar linear/Aljabar linear",
+    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Java/Loop.md",
+    "Java/Input.md",
+    "Java/Math.md",
+    "Java/Shorthand If..Else.md",
+    "Java/Switch.md",
+    "Java/Variable.md",
+    "Kuliah/Aljabar linear/Invers Matrix",
+    "Kuliah/English/Common tense",
+    "Java/Example Of Code",
+    "Untitled.sync-conflict-20230907-211457-OKCGH4R.canvas",
+    "Kuliah/Algoritma/~syncthing~Algoritma.md.tmp",
+    "Kuliah/Algoritma",
+    "Excalidraw",
+    "Untitled.canvas",
+    "img/tux.png",
+    "img/tux.avif",
+    "img",
+    "Untitled 1.canvas"
+  ]
+}

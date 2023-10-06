@@ -1,0 +1,1 @@
+Adanya operator dan nilai bool

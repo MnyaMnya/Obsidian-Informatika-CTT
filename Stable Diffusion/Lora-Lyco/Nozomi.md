@@ -1,0 +1,3 @@
+- Trigger Word nozomi
+- CivitAI https://civitai.com/models/85381
+- Model [[SakuraMochiMix]]
