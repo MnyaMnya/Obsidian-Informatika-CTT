@@ -12,8 +12,8 @@ Berarti menyerbu pemikirian dan ajaran islam yakni dengan penyerang konsep islam
 1. Rasulullah memerangi kebatilan dengan dakwah
 2. Tahun 464 perang antar agama AlpArselan menang
 3. Tahun 1095 perang salib
-4. 15 juli 1099
-5. X
+4. 15 juli 1099 baitul makdis dan yerussalem dikuasai pasukan salib
+5. Tahun 1144 aleppo dan edessa direbut kembali oleh imanuddin zaki dan nurudin zaki
 6. Tahun 1187 salahuddin al ayubbi merebut Yerusalem 
 7. Raja jerman fredrick II menguasi dimmar menukar dengan yersuallem
 8. Tahun 1247-1291 malik al saleh berhasil merebut yersuallem
@@ -32,6 +32,6 @@ Menghilangkan keislaman dari umat islam
 ## Cara 
 
 1. Tasykik - Menimbulkan Keragu raguan
-2. X
+2. Tasywih - Menghilangkan kebanggan terhadap islam
 3. Tadzwib - Mencampur adukkan
 4. Tagrib - Pembaratan (Westernisasi)
