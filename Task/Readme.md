@@ -1,0 +1,1 @@
+Ini adalah note yang digunakan oleh plugin Full calendar untuk menyimpan data jadwal di calendar tersebut

@@ -1,0 +1,1 @@
+File sharing bisa dilakukan di network LAN dengan langkah sebagai berikut 

@@ -12,5 +12,5 @@
 [[Loop]]
 [[Break]]
 [[Array]]
-[[Example of Code]]
+[[Java/Example of Code]]
 [[Class]]

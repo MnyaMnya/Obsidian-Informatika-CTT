@@ -43,3 +43,6 @@ git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 - [ ] convert img to text
 - [ ] Java class and function
 - [ ] IoT materi 1
+- [ ] Tutorial penggunaan Mgit dan Git
+- [ ] Tutorial Kontribusi
+- [ ] Lengkapi CTT yang lain
