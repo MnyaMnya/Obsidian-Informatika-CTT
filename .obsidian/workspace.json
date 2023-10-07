@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Loop.md",
+                "file": "Java/Basic/Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Input.md",
+                "file": "Java/Basic/Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "URL.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "URL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "URL.md"
               }
             }
           },
@@ -245,8 +245,19 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5cd904e5f70e66f7",
+  "active": "fe7092a73c1b0d19",
   "lastOpenFiles": [
+    "Readme.md",
+    "Untitled.canvas",
+    "Java/Java.md",
+    "Java/Class.md",
+    "Java/Example of Code.md",
+    "Java/Basic/Break.md",
+    "Java/Variable/Booleans.md",
+    "Java/Condition",
+    "Java/Basic",
+    "Java/Basic/Output.md",
+    "Java/Basic/Loop.md",
     "Untitled",
     "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
     "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
@@ -270,26 +281,14 @@
     "Kuliah/Aljabar linear/Operasi baris elementer.md",
     "Kuliah/Aljabar linear/Aljabar linear.md",
     "Kuliah/Aljabar linear/matriks identitas.md",
-    "Kuliah/Aljabar linear/Untitled.md",
     "Kuliah/Aljabar linear/Aljabar linear",
-    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
-    "Java/Loop.md",
-    "Java/Input.md",
-    "Java/Math.md",
-    "Java/Shorthand If..Else.md",
-    "Java/Switch.md",
-    "Java/Variable.md",
     "Kuliah/Aljabar linear/Invers Matrix",
     "Kuliah/English/Common tense",
     "Java/Example Of Code",
     "Untitled.sync-conflict-20230907-211457-OKCGH4R.canvas",
     "Kuliah/Algoritma/~syncthing~Algoritma.md.tmp",
     "Kuliah/Algoritma",
-    "Excalidraw",
-    "Untitled.canvas",
     "img/tux.png",
-    "img/tux.avif",
-    "img",
     "Untitled 1.canvas"
   ]
 }
