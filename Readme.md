@@ -42,3 +42,4 @@ git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 - [ ] Aljabar linear
 - [ ] convert img to text
 - [ ] Java class and fuction
+- [ ] IoT materi 1

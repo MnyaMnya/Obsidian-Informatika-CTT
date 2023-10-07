@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Kuliah/IoT/Materi 2.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2f86db4c5434a7d6",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ]
@@ -93,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Readme.md",
+            "file": "Kuliah/IoT/Materi 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Readme.md",
+            "file": "Kuliah/IoT/Materi 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Readme.md"
+            "file": "Kuliah/IoT/Materi 2.md"
           }
         }
       },
@@ -170,6 +178,12 @@
   },
   "active": "72a274efe135b129",
   "lastOpenFiles": [
+    "Task/2023-10-07 IoT day 1.md",
+    "Readme.md",
+    "Kuliah/IoT/Materi 2.md",
+    "Java/Example of Code.md",
+    "Kuliah/IoT",
+    "Java/Class.md",
     "Task/2023-09-25 Infografia laundry laporan.md",
     "Task/2023-09-08 Jemput laundry.md",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
@@ -192,11 +206,6 @@
     "Simple present tense.md",
     "Kuliah/English/English.md",
     "Kuliah/English/Part Of Speech/Verb.md",
-    "Kuliah/English/Part Of Speech/Pronoun.md",
-    "Kuliah/English/Part Of Speech/Preposition.md",
-    "Kuliah/English/Part Of Speech/Noun.md",
-    "Kuliah/English/Part Of Speech/Interjection.md",
-    "Kuliah/English/Part Of Speech/Determiner.md",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Lkmmtd/Hari 2",
     "Kuliah/Lkmm/Lkmmtd/Hari 1",
@@ -210,7 +219,6 @@
     "img/tux.png",
     "Kuliah/Aljabar linear/Operasi baris elementer",
     "Kuliah/Aljabar linear",
-    "Kuliah/Kalkulus/Sistem bilangan real",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",

@@ -8,6 +8,6 @@ Kelompok 10 Capella
 
 [[Dpm]]
 [[Kuliah/Lkmm/Lkmmtd/Hari 1/Materi 1 |Materi 1]]
-[[Materi 2]]
+[[Kuliah/Lkmm/Lkmmtd/Hari 1/Materi 2]]
 
 
