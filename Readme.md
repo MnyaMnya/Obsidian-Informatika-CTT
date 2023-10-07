@@ -39,7 +39,7 @@ git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 ## Todo List
 
 - [ ] Update readme.md
-- [ ] Aljabar linear
+- [ ] Aljabar linear invers matriks
 - [ ] convert img to text
-- [ ] Java class and fuction
+- [ ] Java class and function
 - [ ] IoT materi 1

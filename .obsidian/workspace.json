@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "URL.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "URL.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "URL.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "URL.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -247,6 +247,10 @@
   },
   "active": "fe7092a73c1b0d19",
   "lastOpenFiles": [
+    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Kuliah/Algoritma/Algoritma.md",
+    "Kuliah/Algoritma/Deklarasi.md",
+    "URL.md",
     "Readme.md",
     "Untitled.canvas",
     "Java/Java.md",
@@ -278,9 +282,6 @@
     "Kuliah/English/Part of speech.md",
     "Kuliah/English/English.md",
     "Kuliah/Bahasa Indonesia/Bahasa Indonesia.md",
-    "Kuliah/Aljabar linear/Operasi baris elementer.md",
-    "Kuliah/Aljabar linear/Aljabar linear.md",
-    "Kuliah/Aljabar linear/matriks identitas.md",
     "Kuliah/Aljabar linear/Aljabar linear",
     "Kuliah/Aljabar linear/Invers Matrix",
     "Kuliah/English/Common tense",
