@@ -31,4 +31,5 @@ Mengimbangi aktivitas dengan bersoliasisasi bersama orang sekitar
     Upayakan konten yang kita buat berguna
 
 3. Kolaborasi
-    Bergabung lah dengan orang yang baik![[]]
+    Bergabung lah dengan orang yang baik
+

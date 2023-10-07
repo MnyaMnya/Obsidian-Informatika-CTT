@@ -1,3 +1,4 @@
+Oleh: Hfiz dwi alhadi S.H
 ## Ghawzul fikri di zaman penuh fitnah
 ### Pengetian
 

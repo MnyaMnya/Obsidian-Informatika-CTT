@@ -21,7 +21,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Kuliah/IoT/Materi 3.md",
+                        "file": "Kuliah/IoT/Materi 2.md",
                         "mode": "source",
                         "source": false
                       }
@@ -143,7 +143,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuliah/IoT/Materi 3.md",
+            "file": "Kuliah/IoT/Materi 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuliah/IoT/Materi 3.md",
+            "file": "Kuliah/IoT/Materi 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -172,7 +172,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuliah/IoT/Materi 3.md"
+            "file": "Kuliah/IoT/Materi 2.md"
           }
         }
       },
@@ -218,7 +218,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "0cd0029d48b8b218",
+  "active": "d5fb4470c1e5b8c6",
   "lastOpenFiles": [
     "Kuliah/IoT/Materi 3.md",
     "Kuliah/IoT/Materi 2.md",
