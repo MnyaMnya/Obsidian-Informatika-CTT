@@ -35,6 +35,11 @@ git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 
 1. Fork Repository ini
 2. lalu edit Catatannya dan lakukan pull request
+
+## Issue
+
+Anda bisa menggunakan [Issue](https://github.com/MnyaMnya/Obsidian-Informatika-CTT/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) untuk tempat berdiskusi atau bertanya dan meminta menjadi collaborator
+
  
 ## Todo List
 
