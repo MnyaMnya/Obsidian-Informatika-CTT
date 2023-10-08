@@ -1,5 +1,9 @@
 {
   "accentColor": "#fafafa",
   "cssTheme": "Shimmering Focus",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "b"
+  ],
+  "baseFontSize": 12
 }

@@ -1,0 +1,61 @@
+.theme-light.theme-light {
+	--bg-hue: 36;
+	--bg-sat: 35%;
+
+	--color-accent: hsl(43 100% 42%);
+	--color-accent-hsl: 205 67% 46%;
+	--interactive-accent: hsl(154 50% 38%);
+	--alt-heading-color: hsl(4 56% 48%);
+
+	--bold-color: hsl(4 72% 55%);
+	--italic-color: hsl(205 65% 46%);
+
+	--secondary-accent: hsl(205 67% 46%);
+	--hover-accent: hsl(205 67% 46%);
+	--link-unresolved-color: hsl(33 28% 64%);
+
+	--color-red: rgb(191, 64, 54);
+	--color-green: rgb(47, 147, 105);
+	--color-yellow: rgb(214, 154, 1);
+	--color-blue: rgb(37, 110, 162);
+	--color-purple: rgb(106, 69, 150);
+	--color-orange: rgb(234, 112, 47);
+	
+}
+
+.theme-dark.theme-dark {
+	--bg-hue: 29;
+	--bg-sat: 15%;
+
+	--color-accent: hsl(0, 3%, 57%);
+	--color-accent-hsl: hsl(198 57% 55%);
+	--interactive-accent: hsl(155 83% 24%);
+	--alt-heading-color: hsl(4 100% 68%);
+
+	--bold-color: hsl(4 91% 61%);
+	--italic-color: hsl(198 57% 55%);
+
+
+	--color-red: rgb(254 103 92);
+	--color-green: rgb(56 178 125);
+	--color-yellow: rgb(248 214 104);
+	--color-blue: rgb(77 173 213);
+	--color-purple: rgb(161 141 220);
+	--color-orange: rgb(248 141 78);
+
+	--secondary-accent: hsl(198 57% 55%);
+	--hover-accent: hsl(0, 0%, 100%);
+	--link-unresolved-color: hsl(0, 0%, 0%);
+}
+
+/* colourful headings. delete this part if you don't want that. alternate heading colour must be turned off in style settings to work properly. */
+.theme-dark, .theme-light {
+	--h1-color: var(--color-red);
+	--h2-color: var(--color-orange);
+	--h3-color: var(--color-yellow);
+	--h4-color: var(--color-green);
+	--h5-color: var(--color-blue);
+	--h6-color: var(--color-purple);
+  }
+
+/* adapted from original Primary theme by cecilamay - https://github.com/ceciliamay/obsidianmd-theme-primary */

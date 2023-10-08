@@ -1,0 +1,31 @@
+.theme-light.theme-light {
+    --bg-hue: 222;
+    --bg-sat: 16%;
+    --bg-val: 218%
+
+    --color-accent: hsl(220, 91%, 54%);
+    --color-accent-hsl: 220 91% 54%;
+    --interactive-accent: hsl(197, 97%, 46%);
+
+    --alt-heading-color: hsl(232 34% 50%);
+    --secondary-accent: hsl(22, 99%, 52%);
+    --hover-accent: hsl(316, 73%, 69%);
+    --link-unresolved-color: hsl(101 42% 51%);
+}
+
+.theme-dark.theme-dark {
+    --bg-hue: 240;
+    --bg-sat: 21%;
+    --bg-val: 15%; 
+
+    --color-accent: hsl(217, 92%, 76%);
+    --color-accent-hsl: 217 92% 76%;
+    --interactive-accent: hsl(189, 71%, 73%)
+
+    --alt-heading-color: hsl(232 50% 70%);
+    --secondary-accent: hsl(23, 92%, 75%);
+    --hover-accent: hsl(316, 72%, 86%);
+    --link-unresolved-color: hsl(115, 54%, 76%);
+}
+
+/* Note that `--color-accent-hsl` should have the same values as `--color-accent`, and that `--bg-hue` will override the background colors you have set in the Style Settings. */
