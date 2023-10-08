@@ -22,11 +22,11 @@ Tentu saja tidak. Anda Bisa Berkontribusi ke catatan ini
 1. Install [Git](https://git-scm.com/downloads)
 2. Buat folder
 3. Di command prompt lakukan
-```
+```cmd
 cd directory/foldernya
 ```
 4. Clone repository ini
-```
+```cmd
 git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 ```
 

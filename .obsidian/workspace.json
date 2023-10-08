@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -212,8 +212,8 @@
   },
   "active": "703e0b3d913f4e92",
   "lastOpenFiles": [
-    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
     "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
+    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
     "Kuliah/Kating/Non Informatika FTI DATA.md",
     "Java/Basic/Loop.md",
     "Java/Basic/Math.md",
