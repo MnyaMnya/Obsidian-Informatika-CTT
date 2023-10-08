@@ -1,4 +1,4 @@
-Operasi yang diterapkan pada baris matriks
+Operasi yang diterapkan pada baris matriks terhadap baris matriks
 
 ---
 ## Langkah
