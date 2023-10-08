@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basic/Loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07dd735274e313ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Basic/Input.md",
+                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Basic/Input.md",
+                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Basic/Input.md",
+                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Basic/Input.md"
+                "file": "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md"
               }
             }
           },
@@ -223,13 +210,24 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "8980b354cfeb5a14",
+  "active": "703e0b3d913f4e92",
   "lastOpenFiles": [
-    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
+    "Java/Basic/Loop.md",
+    "Java/Basic/Math.md",
     "Java/Basic/Input.md",
-    "Kuliah/Aljabar linear/Operasi baris elementer.md",
+    "Java/Basic/Comment.md",
+    "Java/Basic/Break.md",
     "Kuliah/Aljabar linear/matriks identitas.md",
     "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Kuliah/Bahasa Indonesia/Bahasa Indonesia.md",
+    "Kuliah/Bahasa Indonesia/References/History Of indonesian  languange.md",
+    "Kuliah/IoT/Materi 3.md",
+    "Kuliah/IoT/Materi 2.md",
+    "Kuliah/Kating/Non Informatika FTI DATA.md",
+    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
+    "Kuliah/Mtk-D/Induksi Mtk/Tugas",
+    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
+    "Kuliah/Aljabar linear/Operasi baris elementer.md",
     "Kuliah/Aljabar linear/Aljabar linear.md",
     "Readme.md",
     "Java/Class",
@@ -244,16 +242,6 @@
     "Kuliah/Mtk-D/Proposisi.md",
     "Kuliah/Mtk-D/Matriks dan fungsi.md",
     "Kuliah/Lkmm/Mind map.canvas",
-    "Kuliah/Kating/Non Informatika FTI DATA.md",
-    "Kuliah/Kalkulus/Sistem bilangan real.md",
-    "Kuliah/Kalkulus/Kalkulus.md",
-    "Kuliah/Kalkulus/Grafik Fungsi.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
-    "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
     "Kuliah/Jaringan Komputer/File sharing",
     "c++/Example Of code",
     "Untitled.canvas",
@@ -266,7 +254,6 @@
     "img/simple_present_tense.png",
     "img/simple-present-tense.png",
     "Kuliah/Aljabar linear/Aljabar linear",
-    "Kuliah/Aljabar linear/Invers Matrix",
     "Untitled.sync-conflict-20230907-211457-OKCGH4R.canvas",
     "img/tux.png",
     "Untitled 1.canvas"
