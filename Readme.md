@@ -22,11 +22,11 @@ Tentu saja tidak. Anda Bisa Berkontribusi ke catatan ini
 1. Install [Git](https://git-scm.com/downloads)
 2. Buat folder
 3. Di command prompt lakukan
-```cmd
+```git
 cd directory/foldernya
 ```
 4. Clone repository ini
-```cmd
+```git
 git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 ```
 
@@ -44,10 +44,10 @@ Anda bisa menggunakan [Issue](https://github.com/MnyaMnya/Obsidian-Informatika-C
 ## Todo List
 
 - [ ] Update readme.md
-- [ ] Aljabar linear invers matriks
 - [ ] convert img to text
 - [ ] Java class and function
 - [ ] IoT materi 1
 - [ ] Tutorial penggunaan Mgit dan Git
 - [ ] Tutorial Kontribusi
 - [ ] Lengkapi CTT yang lain
+- [x] Aljabar linear invers matriks ✅ 2023-10-08

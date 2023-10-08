@@ -21,13 +21,22 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Kuliah/IoT/Materi 2.md",
+                        "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
                         "mode": "source",
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "d8b300ae226240f9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "full-calendar-view",
+                      "state": {}
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "aa9f862e516ea4d5",
@@ -39,7 +48,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Kuliah/IoT/Materi 3.md",
+                        "file": "Readme.md",
                         "mode": "source",
                         "source": false
                       }
@@ -143,7 +152,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuliah/IoT/Materi 2.md",
+            "file": "Readme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,7 +169,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuliah/IoT/Materi 2.md",
+            "file": "Readme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -172,7 +181,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuliah/IoT/Materi 2.md"
+            "file": "Readme.md"
           }
         }
       },
@@ -218,10 +227,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d5fb4470c1e5b8c6",
+  "active": "f0c8a287dd72d95a",
   "lastOpenFiles": [
-    "Kuliah/IoT/Materi 3.md",
+    "Task/2023-09-04 Tugas Matriks aljabear linear.md",
+    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
     "Kuliah/IoT/Materi 2.md",
+    "Kuliah/IoT/Materi 3.md",
     "Task/2023-10-07 IoT day 1.md",
     "Readme.md",
     "Java/Example of Code.md",
@@ -245,9 +257,6 @@
     "Java/Input.md",
     "Future Tense.md",
     "Common tense.md",
-    "Simple past tense.md",
-    "Simple present tense.md",
-    "Kuliah/English/English.md",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Lkmmtd/Hari 2",
     "Kuliah/Lkmm/Lkmmtd/Hari 1",
