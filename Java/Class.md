@@ -1,1 +1,2 @@
-Class 
+[[Class And Object]]
+[[OOP]]

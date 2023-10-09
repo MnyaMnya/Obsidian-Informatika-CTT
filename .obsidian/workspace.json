@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
+                "file": "Kuliah/Algoritma/Deklarasi.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
+                "file": "Kuliah/Algoritma/Deklarasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
+                "file": "Kuliah/Algoritma/Deklarasi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md"
+                "file": "Kuliah/Algoritma/Deklarasi.md"
               }
             }
           },
@@ -224,6 +224,23 @@
   },
   "active": "703e0b3d913f4e92",
   "lastOpenFiles": [
+    "Java/Method.md",
+    "Java/Class.md",
+    "Java/Java.md",
+    "Java/Basic/Loop.md",
+    "Java/Basic/Math.md",
+    "Java/Basic/Output.md",
+    "Java/Class/Class And Object.md",
+    "Java/Class/OOP.md",
+    "Java/Method/Scope.md",
+    "Java/Method/Recursion.md",
+    "Java/Method/Method Parameter.md",
+    "Java/Method/Method Overloading.md",
+    "Java/Method/Method.md",
+    "Java/Method",
+    "Kuliah/Algoritma/Algoritma.md",
+    "Kuliah/Algoritma/Deklarasi.md",
+    "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
     "Kuliah/Jaringan Komputer/Kabel Lan.md",
     "Readme.md",
     "Kuliah/Bahasa Indonesia/References/References.md",
@@ -234,24 +251,8 @@
     "Kuliah/IoT/Materi 3.md",
     "Kuliah/IoT/Materi 2.md",
     "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
-    "Kuliah/Aljabar linear/Operasi baris elementer.md",
-    "Kuliah/Aljabar linear/matriks identitas.md",
-    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
-    "Kuliah/Aljabar linear/Aljabar linear.md",
-    "Task/(Every M) Aljabar Linear H 2.2.md",
-    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
-    "Kuliah/Kating/Non Informatika FTI DATA.md",
-    "Java/Basic/Loop.md",
-    "Java/Basic/Math.md",
-    "Java/Basic/Input.md",
-    "Java/Basic/Comment.md",
-    "Java/Basic/Break.md",
-    "Kuliah/Bahasa Indonesia/Bahasa Indonesia.md",
     "Kuliah/Mtk-D/Induksi Mtk/Tugas",
     "Java/Class",
-    "2023-09-26.md",
-    "Task/Readme.md",
-    "Kuliah/Pai/Pai.md",
     "Kuliah/Mtk-D/Induksi Mtk",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Jaringan Komputer/File sharing",
@@ -265,7 +266,6 @@
     "img/simple_present_tense 1.png",
     "img/simple_present_tense.png",
     "img/simple-present-tense.png",
-    "Kuliah/Aljabar linear/Aljabar linear",
     "Untitled.sync-conflict-20230907-211457-OKCGH4R.canvas",
     "img/tux.png",
     "Untitled 1.canvas"
