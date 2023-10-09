@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +25,18 @@
             "state": {
               "type": "full-calendar-view",
               "state": {}
+            }
+          },
+          {
+            "id": "3161c46382cfd237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuliah/Bahasa Indonesia/References/References.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Kuliah/Jaringan Komputer/File sharing/File Sharing.md"
               }
             }
           },
@@ -212,35 +224,35 @@
   },
   "active": "703e0b3d913f4e92",
   "lastOpenFiles": [
-    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
+    "Kuliah/Jaringan Komputer/Kabel Lan.md",
+    "Readme.md",
+    "Kuliah/Bahasa Indonesia/References/References.md",
+    "Kuliah/Bahasa Indonesia/References/History Of indonesian  languange.md",
+    "Kuliah/English/Common tense/Simple Present Tense.md",
+    "Kuliah/English/Common tense/Future Tense.md",
+    "Kuliah/IoT/IoT.md",
+    "Kuliah/IoT/Materi 3.md",
+    "Kuliah/IoT/Materi 2.md",
     "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Kuliah/Aljabar linear/Operasi baris elementer.md",
+    "Kuliah/Aljabar linear/matriks identitas.md",
+    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
+    "Kuliah/Aljabar linear/Aljabar linear.md",
+    "Task/(Every M) Aljabar Linear H 2.2.md",
+    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
     "Kuliah/Kating/Non Informatika FTI DATA.md",
     "Java/Basic/Loop.md",
     "Java/Basic/Math.md",
     "Java/Basic/Input.md",
     "Java/Basic/Comment.md",
     "Java/Basic/Break.md",
-    "Kuliah/Aljabar linear/matriks identitas.md",
     "Kuliah/Bahasa Indonesia/Bahasa Indonesia.md",
-    "Kuliah/Bahasa Indonesia/References/History Of indonesian  languange.md",
-    "Kuliah/IoT/Materi 3.md",
-    "Kuliah/IoT/Materi 2.md",
     "Kuliah/Mtk-D/Induksi Mtk/Tugas",
-    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
-    "Kuliah/Aljabar linear/Operasi baris elementer.md",
-    "Kuliah/Aljabar linear/Aljabar linear.md",
-    "Readme.md",
     "Java/Class",
     "2023-09-26.md",
     "Task/Readme.md",
     "Kuliah/Pai/Pai.md",
-    "Kuliah/Pai/Mengapa.md",
-    "Kuliah/Pai/Hukum Dasar.md",
-    "Kuliah/Mtk-D/Mtk diskrit.md",
-    "Kuliah/Mtk-D/Induksi MTK.md",
     "Kuliah/Mtk-D/Induksi Mtk",
-    "Kuliah/Mtk-D/Proposisi.md",
-    "Kuliah/Mtk-D/Matriks dan fungsi.md",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Jaringan Komputer/File sharing",
     "c++/Example Of code",
