@@ -140,7 +140,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "3ac28a3dadde6a7b",
@@ -152,7 +152,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Readme.md",
+            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Readme.md",
+            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -181,7 +181,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Readme.md"
+            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md"
           }
         }
       },
@@ -227,7 +227,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "f0c8a287dd72d95a",
+  "active": "d8b300ae226240f9",
   "lastOpenFiles": [
     "Task/2023-09-04 Tugas Matriks aljabear linear.md",
     "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
