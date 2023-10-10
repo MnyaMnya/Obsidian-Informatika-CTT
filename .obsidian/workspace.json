@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/IoT/Materi 2.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/IoT/Materi 2.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/IoT/Materi 2.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/IoT/Materi 2.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -229,6 +228,11 @@
   },
   "active": "211f5cabefc69756",
   "lastOpenFiles": [
+    "Java/Basic/Break.md",
+    "Java/Basic/Math.md",
+    "Java/Condition/Shorthand If..Else.md",
+    "Java/Condition/If..Else.md",
+    "Kuliah/IoT/Materi 2.md",
     "Readme.md",
     "Kuliah/Bahasa Indonesia/References/References.md",
     "Readme.sync-conflict-20231010-073425-OKCGH4R.md",
@@ -238,7 +242,6 @@
     "Java/Class.md",
     "Java/Java.md",
     "Java/Basic/Loop.md",
-    "Java/Basic/Math.md",
     "Java/Basic/Output.md",
     "Java/Class/Class And Object.md",
     "Java/Class/OOP.md",
@@ -253,10 +256,6 @@
     "Kuliah/Jaringan Komputer/Kabel Lan.md",
     "Kuliah/Bahasa Indonesia/References/History Of indonesian  languange.md",
     "Kuliah/English/Common tense/Simple Present Tense.md",
-    "Kuliah/English/Common tense/Future Tense.md",
-    "Kuliah/IoT/IoT.md",
-    "Kuliah/IoT/Materi 3.md",
-    "Kuliah/IoT/Materi 2.md",
     "Kuliah/Mtk-D/Induksi Mtk/Tugas",
     "Java/Class",
     "Kuliah/Mtk-D/Induksi Mtk",

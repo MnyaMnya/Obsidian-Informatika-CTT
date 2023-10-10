@@ -1,4 +1,4 @@
-## hort Hand If...Else
+## Short Hand If...Else
 
 There is also a short-hand [[If..Else]], which is known as the **ternary operator** because it consists of three operands.
 
