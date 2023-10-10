@@ -21,10 +21,7 @@ Tentu saja tidak. Anda Bisa Berkontribusi ke catatan ini
 
 1. Install [Git](https://git-scm.com/downloads)
 2. Buat folder
-3. Di command prompt lakukan
-```
-cd directory/foldernya
-```
+3. Klik di dalam folder tersebut dan pilih git bash here
 4. Clone repository ini
 ```
 git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703e0b3d913f4e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8980b354cfeb5a14",
             "type": "leaf",
             "state": {
@@ -27,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,8 +188,11 @@
   "active": "8980b354cfeb5a14",
   "lastOpenFiles": [
     "Readme.md",
-    "Java/Example of Code.md",
     "Java/Class.md",
+    "Java/Example of Code.md",
+    "Java/Java.md",
+    "Java/Method.md",
+    "Kuliah/Algoritma/Deklarasi.md",
     "Stable Diffusion/Lora-Lyco.md",
     "Stable Diffusion/Checkpoint/CuteYukiMIx.md",
     "Java/Basic/Break.md",
@@ -216,10 +202,7 @@
     "Kuliah/IoT/Materi 2.md",
     "Kuliah/Bahasa Indonesia/References/References.md",
     "Readme.sync-conflict-20231010-073425-OKCGH4R.md",
-    "Kuliah/Algoritma/Deklarasi.md",
     "Excalidraw/Scripts/Downloaded/~syncthing~Fixed horizontal distance between centers.md.tmp",
-    "Java/Method.md",
-    "Java/Java.md",
     "Java/Basic/Loop.md",
     "Java/Basic/Output.md",
     "Java/Class/Class And Object.md",
