@@ -46,12 +46,8 @@
                     "id": "f0c8a287dd72d95a",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Readme.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      "type": "graph",
+                      "state": {}
                     }
                   }
                 ]
@@ -130,17 +126,9 @@
           "type": "bookmarks",
           "state": {}
         }
-      },
-      {
-        "id": "5e86250df677c887",
-        "type": "leaf",
-        "state": {
-          "type": "file-tree-view",
-          "state": {}
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "3ac28a3dadde6a7b",
@@ -152,7 +140,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,7 +156,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -180,9 +166,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md"
-          }
+          "state": {}
         }
       },
       {
@@ -223,14 +207,25 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8b300ae226240f9",
+  "active": "f0c8a287dd72d95a",
   "lastOpenFiles": [
+    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
     "Task/2023-09-04 Tugas Matriks aljabear linear.md",
+    "IT/ASCII.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
+    "Kuliah/Kalkulus/Grafik Fungsi.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
+    "Kuliah/Kalkulus/Sistem bilangan real.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
     "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Kuliah/Aljabar linear/Aljabar linear.md",
+    "Kuliah/Aljabar linear/matriks identitas.md",
+    "Kuliah/Aljabar linear/Operasi baris elementer.md",
     "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
     "Kuliah/IoT/Materi 2.md",
     "Kuliah/IoT/Materi 3.md",
@@ -242,21 +237,9 @@
     "Task/2023-09-25 Infografia laundry laporan.md",
     "Task/2023-09-08 Jemput laundry.md",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
     "Jadwal Kuliah.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
-    "Kuliah/Kalkulus/Grafik Fungsi.md",
-    "IT/ASCII.md",
     "Kuliah/Kalkulus/Kalkulus.md",
     "Kuliah/Kalkulus/Grafik Fungsi",
-    "Kuliah/Kalkulus/Sistem bilangan real.md",
-    "c++/Int to bin.md",
-    "Kuliah/Mtk-D/Mtk diskrit.md",
-    "Kuliah/Mtk-D/Induksi MTK.md",
-    "Java/Input.md",
-    "Future Tense.md",
-    "Common tense.md",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Lkmmtd/Hari 2",
     "Kuliah/Lkmm/Lkmmtd/Hari 1",
