@@ -33,13 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Bahasa Indonesia/References/References.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "211f5cabefc69756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuliah/IoT/Materi 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,17 +97,9 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "069a5c38546c1cdd",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -114,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
+                "file": "Kuliah/IoT/Materi 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
+                "file": "Kuliah/IoT/Materi 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md"
+                "file": "Kuliah/IoT/Materi 2.md"
               }
             }
           },
@@ -222,8 +227,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "703e0b3d913f4e92",
+  "active": "211f5cabefc69756",
   "lastOpenFiles": [
+    "Readme.md",
+    "Kuliah/Bahasa Indonesia/References/References.md",
+    "Readme.sync-conflict-20231010-073425-OKCGH4R.md",
+    "Kuliah/Algoritma/Deklarasi.md",
+    "Excalidraw/Scripts/Downloaded/~syncthing~Fixed horizontal distance between centers.md.tmp",
     "Java/Method.md",
     "Java/Class.md",
     "Java/Java.md",
@@ -239,18 +249,14 @@
     "Java/Method/Method.md",
     "Java/Method",
     "Kuliah/Algoritma/Algoritma.md",
-    "Kuliah/Algoritma/Deklarasi.md",
     "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
     "Kuliah/Jaringan Komputer/Kabel Lan.md",
-    "Readme.md",
-    "Kuliah/Bahasa Indonesia/References/References.md",
     "Kuliah/Bahasa Indonesia/References/History Of indonesian  languange.md",
     "Kuliah/English/Common tense/Simple Present Tense.md",
     "Kuliah/English/Common tense/Future Tense.md",
     "Kuliah/IoT/IoT.md",
     "Kuliah/IoT/Materi 3.md",
     "Kuliah/IoT/Materi 2.md",
-    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
     "Kuliah/Mtk-D/Induksi Mtk/Tugas",
     "Java/Class",
     "Kuliah/Mtk-D/Induksi Mtk",
@@ -262,7 +268,6 @@
     "Java/Basic",
     "Untitled",
     "img/1 wbYRk65-lnwsWYSFJ656xw.png",
-    "Kuliah/Jaringan Komputer/Networking",
     "img/simple_present_tense 1.png",
     "img/simple_present_tense.png",
     "img/simple-present-tense.png",

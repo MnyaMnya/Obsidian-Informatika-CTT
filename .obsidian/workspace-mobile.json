@@ -4,77 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a4ad31c199d7fda",
-        "type": "split",
+        "id": "99b8cb10fea07e8c",
+        "type": "tabs",
         "children": [
           {
-            "id": "863d46f26b31f190",
-            "type": "split",
-            "children": [
-              {
-                "id": "b9e5cefbaf1ae033",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "0cd0029d48b8b218",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d8b300ae226240f9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "full-calendar-view",
-                      "state": {}
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "aa9f862e516ea4d5",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f0c8a287dd72d95a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  }
-                ]
+            "id": "72a274efe135b129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "d333a7a13ce24c7d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "500fe26559e6990d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kuliah/IoT/Materi 3.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,9 +71,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "5e86250df677c887",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "3ac28a3dadde6a7b",
@@ -140,6 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Readme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,6 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Readme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,7 +120,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Readme.md"
+          }
         }
       },
       {
@@ -198,48 +154,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0c8a287dd72d95a",
+  "active": "72a274efe135b129",
   "lastOpenFiles": [
-    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
-    "Task/2023-09-04 Tugas Matriks aljabear linear.md",
-    "IT/ASCII.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
-    "Kuliah/Kalkulus/Grafik Fungsi.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
-    "Kuliah/Kalkulus/Sistem bilangan real.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
-    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
-    "Kuliah/Aljabar linear/Aljabar linear.md",
-    "Kuliah/Aljabar linear/matriks identitas.md",
-    "Kuliah/Aljabar linear/Operasi baris elementer.md",
-    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
-    "Kuliah/IoT/Materi 2.md",
-    "Kuliah/IoT/Materi 3.md",
-    "Task/2023-10-07 IoT day 1.md",
+    "IT/Markdown/Code blocks.md",
+    "IT/Markdown/Fenced Code blocks.md",
     "Readme.md",
-    "Java/Example of Code.md",
-    "Kuliah/IoT",
-    "Java/Class.md",
     "Task/2023-09-25 Infografia laundry laporan.md",
     "Task/2023-09-08 Jemput laundry.md",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
     "Jadwal Kuliah.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
+    "Kuliah/Kalkulus/Grafik Fungsi.md",
+    "IT/ASCII.md",
     "Kuliah/Kalkulus/Kalkulus.md",
     "Kuliah/Kalkulus/Grafik Fungsi",
+    "Kuliah/Kalkulus/Sistem bilangan real.md",
+    "c++/Int to bin.md",
+    "Kuliah/Mtk-D/Mtk diskrit.md",
+    "Kuliah/Mtk-D/Induksi MTK.md",
+    "Java/Input.md",
+    "Future Tense.md",
+    "Common tense.md",
+    "Simple past tense.md",
+    "Simple present tense.md",
+    "Kuliah/English/English.md",
+    "Kuliah/English/Part Of Speech/Verb.md",
+    "Kuliah/English/Part Of Speech/Pronoun.md",
+    "Kuliah/English/Part Of Speech/Preposition.md",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Lkmmtd/Hari 2",
     "Kuliah/Lkmm/Lkmmtd/Hari 1",
@@ -253,6 +209,7 @@
     "img/tux.png",
     "Kuliah/Aljabar linear/Operasi baris elementer",
     "Kuliah/Aljabar linear",
+    "Kuliah/Kalkulus/Sistem bilangan real",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
