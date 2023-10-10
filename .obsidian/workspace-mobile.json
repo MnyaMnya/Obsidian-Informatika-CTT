@@ -46,8 +46,12 @@
                     "id": "f0c8a287dd72d95a",
                     "type": "leaf",
                     "state": {
-                      "type": "graph",
-                      "state": {}
+                      "type": "markdown",
+                      "state": {
+                        "file": "Java/Java.md",
+                        "mode": "source",
+                        "source": false
+                      }
                     }
                   }
                 ]
@@ -140,6 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Java/Java.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,6 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Java/Java.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,7 +172,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Java/Java.md"
+          }
         }
       },
       {
@@ -212,6 +220,8 @@
   },
   "active": "f0c8a287dd72d95a",
   "lastOpenFiles": [
+    "IT/Deprecated.md",
+    "Kuliah/English/Part Of Speech/Article.md",
     "Kuliah/Aljabar linear/Eliminasi Gauss.md",
     "Task/2023-09-04 Tugas Matriks aljabear linear.md",
     "IT/ASCII.md",
@@ -237,8 +247,6 @@
     "Task/2023-09-25 Infografia laundry laporan.md",
     "Task/2023-09-08 Jemput laundry.md",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
-    "Jadwal Kuliah.md",
-    "Kuliah/Kalkulus/Kalkulus.md",
     "Kuliah/Kalkulus/Grafik Fungsi",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Lkmmtd/Hari 2",
