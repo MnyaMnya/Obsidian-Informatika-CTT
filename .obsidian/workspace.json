@@ -219,8 +219,7 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "703e0b3d913f4e92",
