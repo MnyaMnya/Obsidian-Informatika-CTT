@@ -35,3 +35,6 @@ git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 
 1. Fork Repository ini
 2. lalu edit Catatannya dan lakukan pull request
+
+## Discord
+https://discord.gg/4nJagcn3d
