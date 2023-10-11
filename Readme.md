@@ -38,4 +38,4 @@ git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 ## Discord
 Join discord ini untuk bisa menjadi collaborator
 https://discord.gg/4nJagcn3d
->>>>>>> origin/main
+DDt busuk
