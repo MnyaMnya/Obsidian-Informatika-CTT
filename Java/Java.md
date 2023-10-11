@@ -14,3 +14,4 @@
 [[Array]]
 [[Java/Example of Code]]
 [[Class]]
+[[Java/Method|Method]]
