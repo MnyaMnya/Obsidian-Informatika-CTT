@@ -23,15 +23,19 @@ Tentu saja tidak. Anda Bisa Berkontribusi ke catatan ini
 2. Buat folder
 3. Klik di dalam folder tersebut dan pilih git bash here
 4. Clone repository ini
-```
+```bash
 git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 ```
 
-
+## Cara update ctt ini
+1. Lakukan pull di git/mgit
 ## Bagaimana Cara Berkontribusi?
 
 1. Fork Repository ini
-2. lalu edit Catatannya dan lakukan pull request
+2. Clone forknya
+3. lalu edit Catatannya dan lakukan pull request
 
 ## Discord
+Join discord ini untuk bisa menjadi collaborator
 https://discord.gg/4nJagcn3d
+>>>>>>> origin/main
