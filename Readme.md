@@ -21,33 +21,20 @@ Tentu saja tidak. Anda Bisa Berkontribusi ke catatan ini
 
 1. Install [Git](https://git-scm.com/downloads)
 2. Buat folder
-3. Di command prompt lakukan
-```git
-cd directory/foldernya
-```
+3. Klik di dalam folder tersebut dan pilih git bash here
 4. Clone repository ini
-```git
+```bash
 git clone https://github.com/MnyaMnya/Obsidian-Informatika-CTT
 ```
 
-
+## Cara update ctt ini
+1. Lakukan pull di git/mgit
 ## Bagaimana Cara Berkontribusi?
 
 1. Fork Repository ini
-2. lalu edit Catatannya dan lakukan pull request
+2. Clone forknya
+3. lalu edit Catatannya dan lakukan pull request
 
-## Issue
-
-Anda bisa menggunakan [Issue](https://github.com/MnyaMnya/Obsidian-Informatika-CTT/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) untuk tempat berdiskusi atau bertanya dan meminta menjadi collaborator
-
- 
-## Todo List
-
-- [ ] Update readme.md
-- [ ] convert img to text
-- [ ] Java class and function
-- [ ] IoT materi 1
-- [ ] Tutorial penggunaan Mgit dan Git
-- [ ] Tutorial Kontribusi
-- [ ] Lengkapi CTT yang lain
-- [x] Aljabar linear invers matriks ✅ 2023-10-08
+## Discord
+Join discord ini untuk bisa menjadi collaborator
+https://discord.gg/4nJagcn3d

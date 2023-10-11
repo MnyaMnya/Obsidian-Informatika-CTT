@@ -8,56 +8,30 @@
         "type": "split",
         "children": [
           {
-            "id": "863d46f26b31f190",
-            "type": "split",
+            "id": "b9e5cefbaf1ae033",
+            "type": "tabs",
             "children": [
               {
-                "id": "b9e5cefbaf1ae033",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "0cd0029d48b8b218",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d8b300ae226240f9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "full-calendar-view",
-                      "state": {}
-                    }
+                "id": "0cd0029d48b8b218",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
+                    "mode": "source",
+                    "source": false
                   }
-                ],
-                "currentTab": 1
+                }
               },
               {
-                "id": "aa9f862e516ea4d5",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f0c8a287dd72d95a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Java/Java.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+                "id": "d8b300ae226240f9",
+                "type": "leaf",
+                "state": {
+                  "type": "full-calendar-view",
+                  "state": {}
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           },
           {
             "id": "d333a7a13ce24c7d",
@@ -144,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/Java.md",
+            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Java/Java.md",
+            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -173,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Java/Java.md"
+            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md"
           }
         }
       },
@@ -218,8 +192,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f0c8a287dd72d95a",
+  "active": "0cd0029d48b8b218",
   "lastOpenFiles": [
+    "Readme.md",
+    "Java/Java.md",
+    "Java/Class/Class Atributte.md",
+    "Java/Class/Method.md",
+    "Java/Class/Constructor.md",
     "IT/Deprecated.md",
     "Kuliah/English/Part Of Speech/Article.md",
     "Kuliah/Aljabar linear/Eliminasi Gauss.md",
@@ -240,13 +219,8 @@
     "Kuliah/IoT/Materi 2.md",
     "Kuliah/IoT/Materi 3.md",
     "Task/2023-10-07 IoT day 1.md",
-    "Readme.md",
     "Java/Example of Code.md",
     "Kuliah/IoT",
-    "Java/Class.md",
-    "Task/2023-09-25 Infografia laundry laporan.md",
-    "Task/2023-09-08 Jemput laundry.md",
-    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
     "Kuliah/Kalkulus/Grafik Fungsi",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Lkmmtd/Hari 2",

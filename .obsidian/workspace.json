@@ -8,35 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703e0b3d913f4e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8980b354cfeb5a14",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
-            }
-          },
-          {
-            "id": "3161c46382cfd237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuliah/Bahasa Indonesia/References/References.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -84,17 +60,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "069a5c38546c1cdd",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kuliah/Algoritma/Deklarasi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,13 +185,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "703e0b3d913f4e92",
+  "active": "8980b354cfeb5a14",
   "lastOpenFiles": [
-    "Java/Method.md",
+    "Java/Class/Constructor.md",
+    "Java/Class/Method.md",
+    "Java/Class/Class Atributte.md",
+    "Readme.md",
     "Java/Class.md",
+    "Java/Example of Code.md",
     "Java/Java.md",
-    "Java/Basic/Loop.md",
+    "Java/Method.md",
+    "Kuliah/Algoritma/Deklarasi.md",
+    "Stable Diffusion/Lora-Lyco.md",
+    "Stable Diffusion/Checkpoint/CuteYukiMIx.md",
+    "Java/Basic/Break.md",
     "Java/Basic/Math.md",
+    "Java/Condition/Shorthand If..Else.md",
+    "Java/Condition/If..Else.md",
+    "Kuliah/IoT/Materi 2.md",
+    "Kuliah/Bahasa Indonesia/References/References.md",
+    "Readme.sync-conflict-20231010-073425-OKCGH4R.md",
+    "Excalidraw/Scripts/Downloaded/~syncthing~Fixed horizontal distance between centers.md.tmp",
+    "Java/Basic/Loop.md",
     "Java/Basic/Output.md",
     "Java/Class/Class And Object.md",
     "Java/Class/OOP.md",
@@ -236,21 +214,7 @@
     "Java/Method/Recursion.md",
     "Java/Method/Method Parameter.md",
     "Java/Method/Method Overloading.md",
-    "Java/Method/Method.md",
     "Java/Method",
-    "Kuliah/Algoritma/Algoritma.md",
-    "Kuliah/Algoritma/Deklarasi.md",
-    "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
-    "Kuliah/Jaringan Komputer/Kabel Lan.md",
-    "Readme.md",
-    "Kuliah/Bahasa Indonesia/References/References.md",
-    "Kuliah/Bahasa Indonesia/References/History Of indonesian  languange.md",
-    "Kuliah/English/Common tense/Simple Present Tense.md",
-    "Kuliah/English/Common tense/Future Tense.md",
-    "Kuliah/IoT/IoT.md",
-    "Kuliah/IoT/Materi 3.md",
-    "Kuliah/IoT/Materi 2.md",
-    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
     "Kuliah/Mtk-D/Induksi Mtk/Tugas",
     "Java/Class",
     "Kuliah/Mtk-D/Induksi Mtk",
@@ -262,7 +226,6 @@
     "Java/Basic",
     "Untitled",
     "img/1 wbYRk65-lnwsWYSFJ656xw.png",
-    "Kuliah/Jaringan Komputer/Networking",
     "img/simple_present_tense 1.png",
     "img/simple_present_tense.png",
     "img/simple-present-tense.png",
