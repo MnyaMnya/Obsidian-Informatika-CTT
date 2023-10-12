@@ -31,7 +31,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "d333a7a13ce24c7d",
@@ -43,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kuliah/IoT/Materi 3.md",
+                    "file": "Kuliah/Jaringan Komputer/WLAN/Topologi.md",
                     "mode": "source",
                     "source": false
                   }
@@ -118,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
+            "file": "Kuliah/Jaringan Komputer/WLAN/Topologi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
+            "file": "Kuliah/Jaringan Komputer/WLAN/Topologi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md"
+            "file": "Kuliah/Jaringan Komputer/WLAN/Topologi.md"
           }
         }
       },
@@ -192,9 +193,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0cd0029d48b8b218",
+  "active": "500fe26559e6990d",
   "lastOpenFiles": [
+    "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
+    "Kuliah/Jaringan Komputer/WLAN/Topologi.md",
+    "Kuliah/Jaringan Komputer/WLAN.md",
+    "Kuliah/Jaringan Komputer/WLAN",
+    "IT/Markdown/Lists.md",
+    "Kuliah/Jaringan Komputer/Networking/Networking.md",
+    "Kuliah/Jaringan Komputer/Kabel Lan.md",
+    "Java/Example Of Code/LeetCode-TwoSum.md",
+    "Java/Example of Code.md",
+    "Java/Example Of Code/Hello World.md",
     "Readme.md",
+    "Java/Condition/Shorthand If..Else.md",
+    "Java/Method/Method.md",
+    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Task/2023-09-04 Tugas Matriks aljabear linear.md",
     "Java/Java.md",
     "Java/Class/Class Atributte.md",
     "Java/Class/Method.md",
@@ -202,24 +217,11 @@
     "IT/Deprecated.md",
     "Kuliah/English/Part Of Speech/Article.md",
     "Kuliah/Aljabar linear/Eliminasi Gauss.md",
-    "Task/2023-09-04 Tugas Matriks aljabear linear.md",
     "IT/ASCII.md",
     "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
     "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
     "Kuliah/Kalkulus/Grafik Fungsi.md",
     "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
-    "Kuliah/Kalkulus/Sistem bilangan real.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
-    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
-    "Kuliah/Aljabar linear/Aljabar linear.md",
-    "Kuliah/Aljabar linear/matriks identitas.md",
-    "Kuliah/Aljabar linear/Operasi baris elementer.md",
-    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
-    "Kuliah/IoT/Materi 2.md",
-    "Kuliah/IoT/Materi 3.md",
-    "Task/2023-10-07 IoT day 1.md",
-    "Java/Example of Code.md",
     "Kuliah/IoT",
     "Kuliah/Kalkulus/Grafik Fungsi",
     "Kuliah/Lkmm/Mind map.canvas",
@@ -234,7 +236,6 @@
     "Kuliah/Lkmm",
     "img/tux.png",
     "Kuliah/Aljabar linear/Operasi baris elementer",
-    "Kuliah/Aljabar linear",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
