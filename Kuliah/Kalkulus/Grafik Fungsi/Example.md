@@ -29,3 +29,16 @@ f(x)=-x^2+6x-5
 $$
 f(x)=-x^2+6x-5
 $$
+
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+f(x)=x^2-2
+```
+
