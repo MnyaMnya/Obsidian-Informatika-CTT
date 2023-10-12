@@ -1,0 +1,5 @@
+- WLAN Card
+- Acces Point
+- Air Bridge
+- Omni dir antenna
+- Directional antenna
