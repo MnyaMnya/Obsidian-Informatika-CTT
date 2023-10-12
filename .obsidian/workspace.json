@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb3416ab595588fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
+                "file": "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
+                "file": "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md"
+                "file": "Kuliah/Kalkulus/Grafik Fungsi/Example.md"
               }
             }
           },
@@ -221,7 +209,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb3416ab595588fb",
+  "active": "7db2b4ba247f3487",
   "lastOpenFiles": [
     "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
     "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
