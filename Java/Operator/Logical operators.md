@@ -1,4 +1,4 @@
-## ava Logical Operators
+## Java Logical Operators
 
 You can also test for `true` or `false` values with logical operators.
 
