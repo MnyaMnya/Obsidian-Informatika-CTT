@@ -14,8 +14,21 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "cc82b08bb7d804b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/File/Delete File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/File/Delete File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/File/Delete File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/File/Delete File.md"
+              }
             }
           },
           {
@@ -200,34 +217,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8980b354cfeb5a14",
+  "active": "cc82b08bb7d804b9",
   "lastOpenFiles": [
-    "Java/Class/Interface.md",
-    "Java/Class/Abstraction.md",
-    "Java/Class/Inner Class.md",
-    "Java/Class/Polymorphism.md",
-    "Java/Class/Inheritance.md",
-    "Java/Class/Package.md",
-    "Java/Class/Encapsulation.md",
-    "Java/Class/Modifier.md",
-    "Java/Class/Class And Object.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan pecahan.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
-    "Kuliah/Kalkulus/Pemfaktoran.md",
-    "Kuliah/Kalkulus/Kalkulus.md",
-    "Kuliah/Kalkulus/Sistem bilangan real.md",
-    "Kuliah/Kalkulus/Grafik Fungsi.md",
+    "Java/File/Read File.md",
+    "Java/File/Delete File.md",
+    "Java/File/Create File.md",
+    "Java/File/File.md",
+    "Java/Class/Lambda.md",
+    "Java/File",
+    "Java/Class/Thread.md",
+    "Java/Class/RegEx.md",
+    "Java/Class/Untitled",
+    "Java/Class/Exception.md",
+    "Java/Class/Wrapper.md",
+    "Java/Class/Iterator.md",
+    "Java/Class/HashSet.md",
+    "Java/Class/Hash Map.md",
+    "Java/Class/Linked List.md",
+    "Java/Class/ArrayList.md",
+    "Java/Class/Date.md",
     "Java/Condition/If..Else.md",
-    "Java/Basic/Math.md",
-    "Java/Basic/Input.md",
+    "Java/Operator/Logical operators.md",
+    "Java/Example Of Code/Perangko.md",
+    "Java/Operator/Comparison operators.md",
+    "Java/Operator/Bitwise operators.md",
+    "Java/Operator/Assignment operators.md",
+    "Java/Operator/Arithmetic operators.md",
+    "Java/Basic/Variable.md",
+    "Java/Class/Class And Object.md",
     "Java/Basic/Loop.md",
     "Java/Basic/Comment.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
-    "Java/Example Of Code/LeetCode-RomanToInteger.md",
     "Kuliah/Jaringan Komputer/WLAN",
     "Excalidraw/Scripts/Downloaded/~syncthing~Fixed horizontal distance between centers.md.tmp",
     "Java/Method",
@@ -238,8 +257,6 @@
     "Kuliah/Jaringan Komputer/File sharing",
     "c++/Example Of code",
     "Untitled.canvas",
-    "Java/Condition",
-    "Java/Basic",
     "img/1 wbYRk65-lnwsWYSFJ656xw.png",
     "img/simple_present_tense 1.png",
     "img/simple_present_tense.png",
