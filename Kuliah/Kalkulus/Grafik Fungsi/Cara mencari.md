@@ -9,5 +9,5 @@ $$
 y_p=\frac{b^2-4ac}{-4a}=\frac{D}{-4a}
 $$
 D > parabola memotong sumbu x di 2 titik
-D = 0 parabola menyinggung sumbu
+D = 0 parabola menyinggung sumbu x
 D < 0 parabola berada di atas sumbu x dan tidak memotong sumbu x

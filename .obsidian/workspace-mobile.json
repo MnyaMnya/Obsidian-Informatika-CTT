@@ -44,7 +44,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kuliah/Mtk-D/Teori Himpunan.md",
+                    "file": "Java/Method/Method Overloading.md",
                     "mode": "source",
                     "source": false
                   }
@@ -119,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuliah/Mtk-D/Teori Himpunan.md",
+            "file": "Java/Method/Method Overloading.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuliah/Mtk-D/Teori Himpunan.md",
+            "file": "Java/Method/Method Overloading.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuliah/Mtk-D/Teori Himpunan.md"
+            "file": "Java/Method/Method Overloading.md"
           }
         }
       },
@@ -193,36 +193,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5fb4470c1e5b8c6",
+  "active": "500fe26559e6990d",
   "lastOpenFiles": [
-    "c++/Example Of code/a-b %c=0 %d!=0.md",
-    "Kuliah/Mtk-D/Teori Himpunan.md",
-    "Kuliah/Mtk-D/Himpunan",
-    "Kuliah/Mtk-D/Induksi Mtk/Tugas/Tugas Induksi MTK.md",
-    "Kuliah/Mtk-D/Induksi MTK.md",
-    "Java/Example Of Code/LeetCode-TwoSum.md",
-    "Kuliah/Jaringan Komputer/WLAN/Topologi.md",
-    "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
-    "Kuliah/Jaringan Komputer/WLAN.md",
-    "Kuliah/Jaringan Komputer/WLAN",
-    "IT/Markdown/Lists.md",
-    "Kuliah/Jaringan Komputer/Networking/Networking.md",
-    "Kuliah/Jaringan Komputer/Kabel Lan.md",
-    "Java/Example of Code.md",
-    "Java/Example Of Code/Hello World.md",
-    "Readme.md",
-    "Java/Condition/Shorthand If..Else.md",
     "Java/Method/Method.md",
-    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
-    "Task/2023-09-04 Tugas Matriks aljabear linear.md",
+    "Java/Example Of Code/LeetCode-RomanToInteger.md",
+    "Java/Example Of Code/Dec to lower base.md",
+    "Java/Example Of Code/Hello World.md",
+    "Java/Example Of Code/Perangko.md",
+    "Java/Example Of Code/LeetCode-TwoSum.md",
+    "Java/Operator/Logical operators.md",
+    "Java/Operator/Comparison operators.md",
+    "Java/Example Of Code/LeetCode-PalindromeNumber.md",
+    "Java/Example Of Code/AoC 2015 d2 part2.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
+    "Java/Condition/Shorthand If..Else.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
+    "Kuliah/Kalkulus/Grafik Fungsi.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
+    "Kuliah/Kalkulus/Pemfaktoran.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
+    "Kuliah/Kalkulus/Kalkulus.md",
+    "Kuliah/Kalkulus/Sistem bilangan real.md",
+    "c++/Example Of code/a-b palindrome check.md",
+    "Kuliah/Mtk-D/Teori Himpunan.md",
+    "Kuliah/Mtk-D/Mtk diskrit.md",
+    "Kuliah/Mtk-D/Matriks dan fungsi.md",
     "Java/Java.md",
-    "Java/Class/Class Atributte.md",
-    "Java/Class/Method.md",
-    "Java/Class/Constructor.md",
-    "IT/Deprecated.md",
-    "Kuliah/English/Part Of Speech/Article.md",
-    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
-    "IT/ASCII.md",
+    "Kuliah/Mtk-D/Himpunan",
+    "Kuliah/Jaringan Komputer/WLAN",
     "Kuliah/IoT",
     "Kuliah/Kalkulus/Grafik Fungsi",
     "Kuliah/Lkmm/Mind map.canvas",

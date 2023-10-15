@@ -4,7 +4,7 @@ With **method overloading**, multiple methods can have the same name with differ
 
 ### Example
 
-```csharp
+```java
 int myMethod(int x)
 float myMethod(float x)
 double myMethod(double x, double y)
@@ -14,7 +14,7 @@ Consider the following example, which has two methods that add numbers of differ
 
 ### Example
 
-```csharp
+```java
 static int plusMethodInt(int x, int y) {
   return x + y;
 }
@@ -37,7 +37,7 @@ In the example below, we overload the `plusMethod` method to work for both `int`
 
 ### Example
 
-```csharp
+```java
 static int plusMethod(int x, int y) {
   return x + y;
 }

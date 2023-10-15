@@ -9,10 +9,12 @@ Menuliskan semua anggota himpunan
 
 ## Simbol-Simbol baku
 
-P
-N
-Z
-Q
+Positif
+Natural
+Z(bulat)
+Q(rasional)
+Real
+Complex
 ### Notasi pembentukan himpunan
 
 Notasi {x | syarat harus dipenuhi untuk x}
@@ -47,6 +49,13 @@ $$
 A \ - \ B
 \end{align*}
 $$
+### Subset
+$$
+\begin{align*}
+A \ \subset \ B
+\end{align*}
+$$
+
 ### XOR
 
 $$
@@ -63,7 +72,8 @@ Perkalian himpunan a dan b dilakukan dengan perkalian seluruh anggota dengan ber
 Sama dengan hukum logic gate
 
 ## Prinsip dualitas
-Dua konsep dapat ditukar dan memberi jawaban yang benar
+Dua konsep dapat ditukar dan memberi jawaban yang sama
 
 ## Prinsip Inklusi- Eksklusi
  Prinsip yang digunakan untuk mencari jumlah anggota himpunan hasil
+ 
