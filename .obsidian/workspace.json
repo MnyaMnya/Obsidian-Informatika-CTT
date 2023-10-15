@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/File/Delete File.md",
+                "file": "Java/Basic/Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/File/Delete File.md",
+                "file": "Java/Basic/Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/File/Delete File.md",
+                "file": "Java/Basic/Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/File/Delete File.md"
+                "file": "Java/Basic/Input.md"
               }
             }
           },
@@ -219,34 +219,35 @@
   },
   "active": "cc82b08bb7d804b9",
   "lastOpenFiles": [
-    "Java/File/Read File.md",
+    "Java/Basic/Variable.md",
+    "Java/Basic/Output.md",
+    "Java/Basic/Math.md",
+    "Java/Basic/Loop.md",
+    "Java/Basic/Break.md",
+    "Java/Basic/Comment.md",
+    "Java/Class/Thread.md",
+    "Java/Class/Polymorphism.md",
+    "Java/Class/Package.md",
+    "Java/Class/OOP.md",
+    "Java/Class/Modifier.md",
+    "Java/Class/Inheritance.md",
+    "Java/Class/Lambda.md",
+    "Java/Data/Wrapper.md",
+    "Java/Data/RegEx.md",
+    "Java/Data/Linked List.md",
+    "Java/Data/Iterator.md",
+    "Java/Class/Interface.md",
+    "Java/Class/Inner Class.md",
+    "Java/Class/Abstraction.md",
+    "Java/Data",
+    "Java/Example Of Code/AoC 2015 d2 part2.md",
     "Java/File/Delete File.md",
+    "Java/File/Read File.md",
     "Java/File/Create File.md",
     "Java/File/File.md",
-    "Java/Class/Lambda.md",
     "Java/File",
-    "Java/Class/Thread.md",
-    "Java/Class/RegEx.md",
     "Java/Class/Untitled",
     "Java/Class/Exception.md",
-    "Java/Class/Wrapper.md",
-    "Java/Class/Iterator.md",
-    "Java/Class/HashSet.md",
-    "Java/Class/Hash Map.md",
-    "Java/Class/Linked List.md",
-    "Java/Class/ArrayList.md",
-    "Java/Class/Date.md",
-    "Java/Condition/If..Else.md",
-    "Java/Operator/Logical operators.md",
-    "Java/Example Of Code/Perangko.md",
-    "Java/Operator/Comparison operators.md",
-    "Java/Operator/Bitwise operators.md",
-    "Java/Operator/Assignment operators.md",
-    "Java/Operator/Arithmetic operators.md",
-    "Java/Basic/Variable.md",
-    "Java/Class/Class And Object.md",
-    "Java/Basic/Loop.md",
-    "Java/Basic/Comment.md",
     "Kuliah/Jaringan Komputer/WLAN",
     "Excalidraw/Scripts/Downloaded/~syncthing~Fixed horizontal distance between centers.md.tmp",
     "Java/Method",
@@ -255,7 +256,6 @@
     "Kuliah/Mtk-D/Induksi Mtk",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Jaringan Komputer/File sharing",
-    "c++/Example Of code",
     "Untitled.canvas",
     "img/1 wbYRk65-lnwsWYSFJ656xw.png",
     "img/simple_present_tense 1.png",

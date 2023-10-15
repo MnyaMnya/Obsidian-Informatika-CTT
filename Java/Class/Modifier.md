@@ -17,25 +17,19 @@ We divide modifiers into two groups:
 
 For **classes**, you can use either `public` or _default_:
 
-|Modifier|Description|Try it|
-|---|---|---|
-|`public`|The class is accessible by any other class||
-
-|   |   |   |
-|---|---|---|
-|_default_|The class is only accessible by classes in the same package. This is used when you don't specify a modifier. You will learn more about packages in the [Packages chapter](https://www.w3schools.com/java/java_packages.asp)||
+|Modifier|Description|
+|---|---|
+|`public`|The class is accessible by any other class|
+|_default_|The class is only accessible by classes in the same package. This is used when you don't specify a modifier. You will learn more about packages in the [Packages chapter](Package)||
 
 For **attributes, methods and constructors**, you can use the one of the following:
 
-|Modifier|Description|Try it|
-|---|---|---|
-|`public`|The code is accessible for all classes||
-
-|   |   |   |
-|---|---|---|
+|Modifier|Description|
+|---|---|
+|`public`|The code is accessible for all classes|
 |`private`|The code is only accessible within the declared class||
-|_default_|The code is only accessible in the same package. This is used when you don't specify a modifier. You will learn more about packages in the [Packages chapter](https://www.w3schools.com/java/java_packages.asp)||
-|`protected`|The code is accessible in the same package and **subclasses**. You will learn more about subclasses and superclasses in the [Inheritance chapter](https://www.w3schools.com/java/java_inheritance.asp)||
+|_default_|The code is only accessible in the same package. This is used when you don't specify a modifier. You will learn more about packages in the [Packages chapter](Package)|
+|`protected`|The code is accessible in the same package and **subclasses**. You will learn more about subclasses and superclasses in the [Inheritance chapter](Inheritance)|
 
 ---
 
@@ -43,13 +37,12 @@ For **attributes, methods and constructors**, you can use the one of the followi
 
 For **classes**, you can use either `final` or `abstract`:
 
-|Modifier|Description|Try it|
-|---|---|---|
-|`final`|The class cannot be inherited by other classes (You will learn more about inheritance in the [Inheritance chapter](https://www.w3schools.com/java/java_inheritance.asp))||
-
-|   |   |   |
-|---|---|---|
-|`abstract`|The class cannot be used to create objects (To access an abstract class, it must be inherited from another class. You will learn more about inheritance and abstraction in the [Inheritance](https://www.w3schools.com/java/java_inheritance.asp) and [Abstraction](https://www.w3schools.com/java/java_abstract.asp) chapters)||
+|Modifier|Description|
+|---|---|
+|`final`|The class cannot be inherited by other classes (You will learn more about inheritance in the [Inheritance chapter](Inheritance))|
+|   |   |
+|---|---|
+|`abstract`|The class cannot be used to create objects (To access an abstract class, it must be inherited from another class. You will learn more about inheritance and abstraction in the [Inheritance](Inheritance) and [Abstraction](Abstraction) chapters)|
 
 For **attributes and methods**, you can use the one of the following:
 

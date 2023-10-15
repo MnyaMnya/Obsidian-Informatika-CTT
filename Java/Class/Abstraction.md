@@ -1,5 +1,5 @@
 Data **abstraction** is the process of hiding certain details and showing only essential information to the user.  
-Abstraction can be achieved with either **abstract classes** or [**interfaces**](https://www.w3schools.com/java/java_interface.asp) (which you will learn more about in the next chapter).
+Abstraction can be achieved with either **abstract classes** or [**interfaces**](Interface) (which you will learn more about in the next chapter).
 
 The `abstract` keyword is a non-access modifier, used for classes and methods:
 
