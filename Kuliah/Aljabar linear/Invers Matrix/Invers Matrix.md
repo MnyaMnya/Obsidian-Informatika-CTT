@@ -21,8 +21,11 @@ Sebelum Mencari Adj(A)- nya, Kofaktor nya harus ditemmukan terlebih dahulu Kofak
 
 Cara mencari kofaktor adalah mencari determinan dari anggota matrix yang tidak sebaris maupun sekolom
 
+Lalu di putar dan diberi tand
+
 $$
 \begin{flalign*}
 \begin{pmatrix}+&-&+ \\ -&+&- \\ +&-&+\end{pmatrix}&&
 \end{flalign*}
 $$
+

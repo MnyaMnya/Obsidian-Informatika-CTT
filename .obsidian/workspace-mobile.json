@@ -4,56 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a4ad31c199d7fda",
-        "type": "split",
+        "id": "d333a7a13ce24c7d",
+        "type": "tabs",
         "children": [
           {
-            "id": "b9e5cefbaf1ae033",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0cd0029d48b8b218",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Task/2023-09-04 Tugas Matriks aljabear linear.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d8b300ae226240f9",
-                "type": "leaf",
-                "state": {
-                  "type": "full-calendar-view",
-                  "state": {}
-                }
+            "id": "500fe26559e6990d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "d333a7a13ce24c7d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "500fe26559e6990d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Java/Method/Method Overloading.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/Method/Method Overloading.md",
+            "file": "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Java/Method/Method Overloading.md",
+            "file": "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Java/Method/Method Overloading.md"
+            "file": "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md"
           }
         }
       },
@@ -195,32 +161,34 @@
   },
   "active": "500fe26559e6990d",
   "lastOpenFiles": [
-    "Java/Method/Method.md",
-    "Java/Example Of Code/LeetCode-RomanToInteger.md",
-    "Java/Example Of Code/Dec to lower base.md",
-    "Java/Example Of Code/Hello World.md",
-    "Java/Example Of Code/Perangko.md",
-    "Java/Example Of Code/LeetCode-TwoSum.md",
-    "Java/Operator/Logical operators.md",
-    "Java/Operator/Comparison operators.md",
-    "Java/Example Of Code/LeetCode-PalindromeNumber.md",
-    "Java/Example Of Code/AoC 2015 d2 part2.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
-    "Java/Condition/Shorthand If..Else.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Example.md",
-    "Kuliah/Kalkulus/Grafik Fungsi.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
-    "Kuliah/Kalkulus/Pemfaktoran.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
-    "Kuliah/Kalkulus/Kalkulus.md",
-    "Kuliah/Kalkulus/Sistem bilangan real.md",
-    "c++/Example Of code/a-b palindrome check.md",
-    "Kuliah/Mtk-D/Teori Himpunan.md",
-    "Kuliah/Mtk-D/Mtk diskrit.md",
-    "Kuliah/Mtk-D/Matriks dan fungsi.md",
-    "Java/Java.md",
+    "Kuliah/Jaringan Komputer/WLAN/Topologi.md",
+    "Kuliah/Jaringan Komputer/Kabel Lan.md",
+    "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
+    "Kuliah/Jaringan Komputer/Networking/Networking.md",
+    "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
+    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
+    "Kuliah/Algoritma/Algoritma.md",
+    "Kuliah/Algoritma/Deklarasi.md",
+    "Kuliah/Aljabar linear/Operasi baris elementer.md",
+    "Kuliah/Aljabar linear/Eliminasi Gauss.md",
+    "Kuliah/Aljabar linear/matriks identitas.md",
+    "Kuliah/Aljabar linear/Aljabar linear.md",
+    "Kuliah/Lkmm/Lkmmtd/Drawing 2023-09-16 10.53.08.excalidraw.md",
+    "Kuliah/Bahasa Indonesia/Bahasa Indonesia.md",
+    "Kuliah/English/Common tense/Simple Present Tense.md",
+    "Kuliah/Mtk-D/Proposisi/Interpretasi.md",
+    "Kuliah/Pai/Mengapa.md",
+    "Kuliah/Pai/Hukum Dasar.md",
+    "Kuliah/Mtk-D/Proposisi.md",
+    "Kuliah/Mtk-D/Fungsi/Symetric.md",
+    "Java/Data/RegEx.md",
+    "Java/Method/Method Overloading.md",
+    "Java/Data/Wrapper.md",
+    "Java/File/Delete File.md",
+    "Java/Class/Exception.md",
+    "Java/Data/Linked List.md",
+    "Java/File",
+    "Java/Data",
     "Kuliah/Mtk-D/Himpunan",
     "Kuliah/Jaringan Komputer/WLAN",
     "Kuliah/IoT",
@@ -233,8 +201,6 @@
     "Pasted Image 20230916115230_484.jpg",
     "Pasted Image 20230916111503_622.jpg",
     "Template",
-    "Kuliah/Lkmm/Lkmmtd",
-    "Kuliah/Lkmm",
     "img/tux.png",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
