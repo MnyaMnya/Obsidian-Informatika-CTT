@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basic/Input.md",
+                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Basic/Input.md",
+                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Basic/Input.md",
+                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Basic/Input.md"
+                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md"
               }
             }
           },
@@ -219,35 +219,35 @@
   },
   "active": "cc82b08bb7d804b9",
   "lastOpenFiles": [
-    "Java/Basic/Variable.md",
-    "Java/Basic/Output.md",
-    "Java/Basic/Math.md",
-    "Java/Basic/Loop.md",
-    "Java/Basic/Break.md",
-    "Java/Basic/Comment.md",
-    "Java/Class/Thread.md",
-    "Java/Class/Polymorphism.md",
-    "Java/Class/Package.md",
-    "Java/Class/OOP.md",
-    "Java/Class/Modifier.md",
-    "Java/Class/Inheritance.md",
-    "Java/Class/Lambda.md",
-    "Java/Data/Wrapper.md",
-    "Java/Data/RegEx.md",
-    "Java/Data/Linked List.md",
-    "Java/Data/Iterator.md",
-    "Java/Class/Interface.md",
-    "Java/Class/Inner Class.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
+    "Kuliah/Kalkulus/Pemfaktoran.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
+    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan pecahan.md",
+    "Kuliah/Kalkulus/Grafik Fungsi.md",
+    "Kuliah/Kalkulus/Kalkulus.md",
+    "Kuliah/Kalkulus/Sistem bilangan real.md",
+    "Java/Class/Constructor.md",
+    "Java/Class/Exception.md",
+    "Java/Class/Class Atributte.md",
     "Java/Class/Abstraction.md",
+    "Java/Basic/Variable.md",
+    "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
+    "Kuliah/Jaringan Komputer/Kabel Lan.md",
+    "Kuliah/Jaringan Komputer/WLAN.md",
+    "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
+    "Kuliah/Jaringan Komputer/Networking/Networking.md",
+    "Kuliah/English/Part of speech.md",
+    "Kuliah/English/Part Of Speech/Determiner.md",
+    "Kuliah/English/Part Of Speech/Article.md",
+    "Kuliah/English/Part Of Speech/Interjection.md",
+    "Kuliah/English/Part Of Speech/Preposition.md",
+    "Kuliah/English/Part Of Speech/Pronoun.md",
     "Java/Data",
-    "Java/Example Of Code/AoC 2015 d2 part2.md",
-    "Java/File/Delete File.md",
-    "Java/File/Read File.md",
-    "Java/File/Create File.md",
-    "Java/File/File.md",
     "Java/File",
     "Java/Class/Untitled",
-    "Java/Class/Exception.md",
     "Kuliah/Jaringan Komputer/WLAN",
     "Excalidraw/Scripts/Downloaded/~syncthing~Fixed horizontal distance between centers.md.tmp",
     "Java/Method",
