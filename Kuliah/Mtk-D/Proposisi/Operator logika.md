@@ -2,7 +2,7 @@
 Kumpulan operator logika harus bersifat konsisten
 
 ### Example
-[[AND]] <code>&#94</code>
+[[AND]] ^
 [[OR]] v
 [[XOR]] ⊕
 [[NOT]] -

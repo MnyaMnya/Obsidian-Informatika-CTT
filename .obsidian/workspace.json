@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
+                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
+                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
+                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md"
+                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -219,32 +219,32 @@
   },
   "active": "cc82b08bb7d804b9",
   "lastOpenFiles": [
+    "Kuliah/Mtk-D/Fungsi/Biner.md",
+    "Kuliah/Mtk-D/Fungsi/Relasi.md",
+    "Kuliah/Mtk-D/Fungsi/Symetric.md",
+    "Kuliah/Mtk-D/Induksi MTK.md",
+    "Kuliah/Mtk-D/Proposisi/Sifat.md",
+    "Kuliah/Mtk-D/Proposisi/Presesdens.md",
+    "Kuliah/Mtk-D/Proposisi/Operator logika.md",
+    "Kuliah/Mtk-D/Proposisi/Interpretasi.md",
+    "Kuliah/Mtk-D/Proposisi/Operator logika/IF.md",
+    "Kuliah/Mtk-D/Soal POLYGRAPH.md",
+    "Kuliah/Mtk-D/Mtk diskrit.md",
+    "Kuliah/Mtk-D/Proposisi.md",
+    "Kuliah/Mtk-D/Teori Himpunan.md",
+    "Kuliah/Mtk-D/Proposisi/Operator logika/AND.md",
+    "Kuliah/Mtk-D/Proposisi/Formula.md",
+    "Kuliah/Mtk-D/Matriks dan fungsi.md",
+    "Kuliah/Mtk-D/Proposisi/Operator logika/NOT.md",
+    "Kuliah/Mtk-D/Proposisi/Operator logika/IFF.md",
+    "Kuliah/Mtk-D/Proposisi/Operator logika/XOR.md",
+    "Kuliah/Mtk-D/Proposisi/Operator logika/OR.md",
+    "Java/Class/Constructor.md",
+    "Java/Class/Abstraction.md",
+    "Java/Class/Class Atributte.md",
+    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
     "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
     "Kuliah/Kalkulus/Pemfaktoran.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan Mutlak.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak Samaan kuadrat.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidak samaan.md",
-    "Kuliah/Kalkulus/Sistem bilangan real/Pertidaksamaan pecahan.md",
-    "Kuliah/Kalkulus/Grafik Fungsi.md",
-    "Kuliah/Kalkulus/Kalkulus.md",
-    "Kuliah/Kalkulus/Sistem bilangan real.md",
-    "Java/Class/Constructor.md",
-    "Java/Class/Exception.md",
-    "Java/Class/Class Atributte.md",
-    "Java/Class/Abstraction.md",
-    "Java/Basic/Variable.md",
-    "Kuliah/Jaringan Komputer/WLAN/Perangkat WLAN.md",
-    "Kuliah/Jaringan Komputer/Kabel Lan.md",
-    "Kuliah/Jaringan Komputer/WLAN.md",
-    "Kuliah/Jaringan Komputer/File sharing/File Sharing.md",
-    "Kuliah/Jaringan Komputer/Networking/Networking.md",
-    "Kuliah/English/Part of speech.md",
-    "Kuliah/English/Part Of Speech/Determiner.md",
-    "Kuliah/English/Part Of Speech/Article.md",
-    "Kuliah/English/Part Of Speech/Interjection.md",
-    "Kuliah/English/Part Of Speech/Preposition.md",
-    "Kuliah/English/Part Of Speech/Pronoun.md",
     "Java/Data",
     "Java/File",
     "Java/Class/Untitled",
