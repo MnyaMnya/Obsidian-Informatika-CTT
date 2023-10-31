@@ -12,7 +12,7 @@ import java.util.ArrayList; // import the ArrayList class
 ArrayList<String> cars = new ArrayList<String>(); // Create an ArrayList object
 ```
 
-If you don't know what a package is, read our [Java Packages Tutorial](https://www.w3schools.com/java/java_packages.asp).
+If you don't know what a package is, read our [Java Packages Tutorial](Package).
 
 ---
 

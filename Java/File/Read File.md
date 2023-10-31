@@ -65,4 +65,4 @@ The output will be:
 
 **Note:** There are many available classes in the Java API that can be used to read and write files in Java: `FileReader, BufferedReader, Files, Scanner, FileInputStream, FileWriter, BufferedWriter, FileOutputStream`, etc. Which one to use depends on the Java version you're working with and whether you need to read bytes or characters, and the size of the file/lines etc.
 
-**Tip:** To delete a file, read our [Java Delete Files](https://www.w3schools.com/java/java_files_delete.asp) chapter.
+**Tip:** To delete a file, read our [Java Delete Files]("Java/File/Delete File") chapter.
