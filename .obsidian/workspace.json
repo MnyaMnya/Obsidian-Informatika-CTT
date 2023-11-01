@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md",
+                "file": "Kuliah/Mtk-D/Proposisi/Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c731a7e23b8a1340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md",
+                "file": "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md",
+                "file": "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Mtk-D/Fungsi/Relasi.md"
+                "file": "Java/Example Of Code/LeetCode-ContainsDuplicate.md"
               }
             }
           },
@@ -217,10 +229,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc82b08bb7d804b9",
+  "active": "c731a7e23b8a1340",
   "lastOpenFiles": [
-    "Kuliah/Mtk-D/Fungsi/Biner.md",
+    "Java/Data/Iterator.md",
+    "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
+    "Java/Class/Thread.md",
+    "Java/Class/Polymorphism.md",
+    "Java/Class/OOP.md",
+    "Java/Class/Modifier.md",
+    "Java/Class/Lambda.md",
+    "Java/Class/Inner Class.md",
+    "Java/Basic/Loop.md",
+    "Java/Basic/Math.md",
+    "Java/Basic/Input.md",
+    "Kuliah/Mtk-D/Proposisi/Formula.md",
+    "Kuliah/Aljabar linear/Invers Matrix/Invers Matrix.md",
     "Kuliah/Mtk-D/Fungsi/Relasi.md",
+    "Kuliah/Mtk-D/Fungsi/Biner.md",
     "Kuliah/Mtk-D/Fungsi/Symetric.md",
     "Kuliah/Mtk-D/Induksi MTK.md",
     "Kuliah/Mtk-D/Proposisi/Sifat.md",
@@ -232,19 +257,6 @@
     "Kuliah/Mtk-D/Mtk diskrit.md",
     "Kuliah/Mtk-D/Proposisi.md",
     "Kuliah/Mtk-D/Teori Himpunan.md",
-    "Kuliah/Mtk-D/Proposisi/Operator logika/AND.md",
-    "Kuliah/Mtk-D/Proposisi/Formula.md",
-    "Kuliah/Mtk-D/Matriks dan fungsi.md",
-    "Kuliah/Mtk-D/Proposisi/Operator logika/NOT.md",
-    "Kuliah/Mtk-D/Proposisi/Operator logika/IFF.md",
-    "Kuliah/Mtk-D/Proposisi/Operator logika/XOR.md",
-    "Kuliah/Mtk-D/Proposisi/Operator logika/OR.md",
-    "Java/Class/Constructor.md",
-    "Java/Class/Abstraction.md",
-    "Java/Class/Class Atributte.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Cara mencari.md",
-    "Kuliah/Kalkulus/Grafik Fungsi/Bentuk dasar.md",
-    "Kuliah/Kalkulus/Pemfaktoran.md",
     "Java/Data",
     "Java/File",
     "Java/Class/Untitled",
