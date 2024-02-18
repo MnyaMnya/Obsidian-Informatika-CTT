@@ -1,10 +1,9 @@
 ---
-title: Aljabar Linear H 2.2
+title: Statistik dan probabilitas H 2.4
 allDay: false
 startTime: 13:30
 endTime: 16:00
 type: recurring
 daysOfWeek: [M]
-startRecur: 2023-10-02
-date: 2023-10-02
+startRecur: 2024-02-12
 ---

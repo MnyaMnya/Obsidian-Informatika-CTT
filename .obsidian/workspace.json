@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/NS2/Example Code/Start.js.md",
+                "file": "Java/Example Of Code/AoC 2015 d2 part2.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/NS2/Example Code/Start.js.md",
+                "file": "Kuliah/Mtk-D/Proposisi/Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/NS2/Example Code/Start.js.md",
+                "file": "Kuliah/Mtk-D/Proposisi/Formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/NS2/Example Code/Start.js.md"
+                "file": "Kuliah/Mtk-D/Proposisi/Formula.md"
               }
             }
           },
@@ -243,37 +242,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c731a7e23b8a1340",
+  "active": "8980b354cfeb5a14",
   "lastOpenFiles": [
-    "Java/Basic/Input.md",
-    "Javascript/NS2/Example Code/HacknetCore.md",
-    "Javascript/NS2/Example Code/Start.js.md",
+    "Task/(Every F) Praktikum Basis Data IF.md",
+    "Task/(Every R) Organisasi dan arsiktetur komp H 2.5.md",
+    "Task/(Every W) PKN A 1.7.md",
+    "Task/(Every T) Praktikum struktur data IF.md",
+    "Task/2024-02-15 Organisasi dan Arsiktektur Komp H 2.5.md",
+    "Task/(Every R) Basis Data H 2.6.md",
+    "Task/(Every W) Struktur Data.md",
+    "Task/(Every T) Pengantar AI H 2.5.md",
+    "Task/(Every T) Logika Matematika H 2.4.md",
+    "Task/(Every M) Statistik dan probabilitas H 2.4.md",
+    "Java/Example Of Code/AoC 2015 d2 part2.md",
+    "Java/Example Of Code/AoC 2022 d1 part 1.md",
+    "Java/Example Of Code/LeetCode-PalindromeNumber.md",
+    "Java/Example Of Code/LeetCode-RomanToInteger.md",
+    "Java/Example Of Code/LeetCode-TwoSum.md",
+    "Java/Example Of Code/LeetCode-Valid Anagram.md",
+    "Java/Example Of Code/Perangko.md",
+    "Java/Example Of Code/Dec to lower base.md",
+    "Java/Example Of Code/Hello World.md",
+    "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
+    "c++/Example Of code/Rapor.md",
+    "c++/Example Of code/Permutation.md",
+    "c++/Example Of code/Score checker.md",
+    "c++/Example Of code/Aritmatika.md",
+    "c++/Example Of code/AoC 2015 d2.md",
+    "c++/Example Of code/a-b palindrome check.md",
     "Javascript/NS2/Example Code",
     "Javascript/NS2",
     "Javascript",
-    "Java/Example Of Code/AoC 2015 d2 part2.md",
-    "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
-    "Java/Example Of Code/LeetCode-PalindromeNumber.md",
-    "Java/Example Of Code/LeetCode-Valid Anagram.md",
-    "Java/Example Of Code/LeetCode-TwoSum.md",
-    "Java/Example Of Code/LeetCode-RomanToInteger.md",
-    "Java/Example Of Code/Perangko.md",
-    "Java/Example Of Code/Hello World.md",
-    "Java/Class/OOP.md",
-    "Java/Class/Date.md",
-    "Java/Class/Class Atributte.md",
-    "Java/Class/Constructor.md",
-    "Java/Class/Class And Object.md",
-    "Java/Class/Abstraction.md",
-    "Java/Basic/Variable.md",
-    "Java/Basic/Output.md",
-    "Java/Basic/Math.md",
-    "Java/Basic/Loop.md",
-    "Java/Basic/Comment.md",
-    "Java/Basic/Break.md",
-    "Java/Array/Array Loop.md",
-    "Java/Array/Array.md",
-    "Task/Readme.md",
     "Java/Data",
     "Java/File",
     "Java/Class/Untitled",
