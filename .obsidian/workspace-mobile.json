@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Array/Array.md",
+                "file": "Kuliah/Statistika dan probabilitas/Inferensial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1178b439af5b8038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stable Diffusion/SD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/Array/Array.md",
+            "file": "Stable Diffusion/SD.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Java/Array/Array.md",
+            "file": "Stable Diffusion/SD.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Java/Array/Array.md"
+            "file": "Stable Diffusion/SD.md"
           }
         }
       },
@@ -190,10 +202,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5fb4470c1e5b8c6",
+  "active": "1178b439af5b8038",
   "lastOpenFiles": [
-    "Java/Data/ArrayList.md",
+    "Kuliah/A.I/Pengantar/Pengertian.md",
+    "Kuliah/A.I/Pengantar.md",
+    "Readme.md",
+    "Kuliah/A.I/Pengantar",
+    "Kuliah/Statistika dan probabilitas/Inferensial.md",
+    "Kuliah/A.I",
+    "Kuliah/Statistika dan probabilitas/Deskriptif.md",
+    "Kuliah/Statistika dan probabilitas/Data kuantitatif.md",
+    "Kuliah/Statistika dan probabilitas/INDEX.md",
+    "Kuliah/Statistika dan probabilitas/Pengantar.md",
+    "Javascript/NS2/Example Code/Start.js.md",
+    "Javascript/NS2/Example Code/HacknetCore.md",
+    "Kuliah/Pai/Hukum Dasar.md",
     "Java/Array/Array.md",
+    "Kuliah/Statistika dan probabilitas",
+    "Java/Math/More Math.md",
+    "Java/Data/ArrayList.md",
     "Java/Array/Array Loop.md",
     "Java/Example Of Code/LeetCode-TwoSum.md",
     "Java/Example Of Code/LeetCode-RomanToInteger.md",
@@ -206,18 +233,6 @@
     "Java/Array/Multidimensional Array.md",
     "c++/Example Of code/Matrix.md",
     "Java/Basic/Input.md",
-    "Java/Data/Iterator.md",
-    "Java/Basic/Loop.md",
-    "Java/Example Of Code/Dec to lower base.md",
-    "Java/Example Of Code/Hello World.md",
-    "Java/Basic/Math.md",
-    "Java/Method/Method.md",
-    "Java/Class/Class And Object.md",
-    "Java/Class/Abstraction.md",
-    "Java/Class/Package.md",
-    "IT/Markdown/HTML.md",
-    "IT/Markdown/Code blocks.md",
-    "IT/Markdown/Code.md",
     "Java/File",
     "Java/Data",
     "Kuliah/Mtk-D/Himpunan",
@@ -226,12 +241,9 @@
     "Kuliah/Kalkulus/Grafik Fungsi",
     "Kuliah/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Lkmmtd/Hari 2",
-    "Kuliah/Lkmm/Lkmmtd/Hari 1",
     "Untitled.canvas",
-    "Kuliah/Mtk-D/Fungsi",
     "Pasted Image 20230916115230_484.jpg",
     "Pasted Image 20230916111503_622.jpg",
-    "Template",
     "img/tux.png",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
