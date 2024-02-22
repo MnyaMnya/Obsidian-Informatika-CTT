@@ -50,9 +50,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e64fb28ef8cf7ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pancasila.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb8ed7a6fc2bda34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuliah/Arsiktetur komputer/Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +152,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Stable Diffusion/SD.md",
+            "file": "Kuliah/Arsiktetur komputer/Part 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +169,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Stable Diffusion/SD.md",
+            "file": "Kuliah/Arsiktetur komputer/Part 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +181,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Stable Diffusion/SD.md"
+            "file": "Kuliah/Arsiktetur komputer/Part 1.md"
           }
         }
       },
@@ -202,15 +226,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1178b439af5b8038",
+  "active": "fb8ed7a6fc2bda34",
   "lastOpenFiles": [
+    "Kuliah/Arsiktetur komputer/Index.md",
+    "Kuliah/Arsiktetur komputer/Part 1.md",
+    "Kuliah/Statistika dan probabilitas/Deskriptif.md",
+    "Pancasila.md",
+    "Kuliah/Arsiktetur komputer",
+    "Kuliah/Pancasila/INDEX.md",
+    "Kuliah/Statistika dan probabilitas/Inferensial.md",
+    "Java/Math/More Math.md",
+    "Kuliah/Pancasila",
+    "Stable Diffusion/SD.md",
     "Kuliah/A.I/Pengantar/Pengertian.md",
     "Kuliah/A.I/Pengantar.md",
     "Readme.md",
     "Kuliah/A.I/Pengantar",
-    "Kuliah/Statistika dan probabilitas/Inferensial.md",
     "Kuliah/A.I",
-    "Kuliah/Statistika dan probabilitas/Deskriptif.md",
     "Kuliah/Statistika dan probabilitas/Data kuantitatif.md",
     "Kuliah/Statistika dan probabilitas/INDEX.md",
     "Kuliah/Statistika dan probabilitas/Pengantar.md",
@@ -219,7 +251,6 @@
     "Kuliah/Pai/Hukum Dasar.md",
     "Java/Array/Array.md",
     "Kuliah/Statistika dan probabilitas",
-    "Java/Math/More Math.md",
     "Java/Data/ArrayList.md",
     "Java/Array/Array Loop.md",
     "Java/Example Of Code/LeetCode-TwoSum.md",
@@ -228,19 +259,12 @@
     "Java/Example Of Code/AoC 2022 d1 part 1.md",
     "Java/Example Of Code/AoC 2015 d2 part2.md",
     "Java/Data/Wrapper.md",
-    "Java/Data/RegEx.md",
-    "Java/Data/Linked List.md",
-    "Java/Array/Multidimensional Array.md",
-    "c++/Example Of code/Matrix.md",
-    "Java/Basic/Input.md",
     "Java/File",
     "Java/Data",
     "Kuliah/Mtk-D/Himpunan",
     "Kuliah/Jaringan Komputer/WLAN",
     "Kuliah/IoT",
-    "Kuliah/Kalkulus/Grafik Fungsi",
     "Kuliah/Lkmm/Mind map.canvas",
-    "Kuliah/Lkmm/Lkmmtd/Hari 2",
     "Untitled.canvas",
     "Pasted Image 20230916115230_484.jpg",
     "Pasted Image 20230916111503_622.jpg",
