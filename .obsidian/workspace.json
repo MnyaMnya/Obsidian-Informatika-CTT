@@ -16,12 +16,24 @@
             }
           },
           {
+            "id": "58f177c24f6c1a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuliah/Arsiktetur komputer/Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cc82b08bb7d804b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Mtk-D/Proposisi/Formula.md",
+                "file": "Kuliah/Semester I/Mtk-D/Proposisi/Formula.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Mtk-D/Proposisi/Formula.md",
+                "file": "Kuliah/Arsiktetur komputer/Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Mtk-D/Proposisi/Formula.md",
+                "file": "Kuliah/Arsiktetur komputer/Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Mtk-D/Proposisi/Formula.md"
+                "file": "Kuliah/Arsiktetur komputer/Part 2.md"
               }
             }
           },
@@ -242,45 +255,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8980b354cfeb5a14",
+  "active": "58f177c24f6c1a91",
   "lastOpenFiles": [
+    "Kuliah/Arsiktetur komputer/Part 1.md",
+    "Kuliah/Arsiktetur komputer/Part 2.md",
+    "c++/Example Of code/Bin to int.md",
+    "c++/Example Of code/Rapor.md",
+    "c++/Example Of code/Prime num %a=0 %b!=0.md",
+    "c++/Example Of code/Prime Check.md",
+    "c++/Example Of code/Permutation.md",
+    "Kuliah/Semester I",
+    "Pancasila.md",
+    "Kuliah/Pancasila/INDEX.md",
+    "Kuliah/Pancasila",
+    "Kuliah/Arsiktetur komputer/Index.md",
+    "Kuliah/Arsiktetur komputer",
+    "Task/(Every M) Statistika dan probabilitas.md",
+    "Task/2024-02-26 Statistik dan probabilitas H 2.4.md",
+    "Task/2023-11-01 Praktikum Algoritma Pemograman Lab IF.md",
+    "Task/2023-10-31 Kalkulus H 2.6.md",
+    "Kuliah/Statistika dan probabilitas/Pengantar.md",
+    "Kuliah/Statistika dan probabilitas/Inferensial.md",
+    "Kuliah/Statistika dan probabilitas/INDEX.md",
+    "Kuliah/Statistika dan probabilitas/Deskriptif.md",
+    "Kuliah/Statistika dan probabilitas/Data kuantitatif.md",
+    "Kuliah/Statistika dan probabilitas",
+    "Kuliah/A.I/Pengantar/Pengertian.md",
+    "Kuliah/A.I/Pengantar.md",
+    "Kuliah/A.I/Pengantar",
+    "Kuliah/A.I",
+    "Java/Class/Random.md",
     "Task/(Every F) Praktikum Basis Data IF.md",
     "Task/(Every R) Organisasi dan arsiktetur komp H 2.5.md",
     "Task/(Every W) PKN A 1.7.md",
     "Task/(Every T) Praktikum struktur data IF.md",
-    "Task/2024-02-15 Organisasi dan Arsiktektur Komp H 2.5.md",
-    "Task/(Every R) Basis Data H 2.6.md",
-    "Task/(Every W) Struktur Data.md",
-    "Task/(Every T) Pengantar AI H 2.5.md",
-    "Task/(Every T) Logika Matematika H 2.4.md",
-    "Task/(Every M) Statistik dan probabilitas H 2.4.md",
-    "Java/Example Of Code/AoC 2015 d2 part2.md",
-    "Java/Example Of Code/AoC 2022 d1 part 1.md",
-    "Java/Example Of Code/LeetCode-PalindromeNumber.md",
-    "Java/Example Of Code/LeetCode-RomanToInteger.md",
-    "Java/Example Of Code/LeetCode-TwoSum.md",
-    "Java/Example Of Code/LeetCode-Valid Anagram.md",
-    "Java/Example Of Code/Perangko.md",
-    "Java/Example Of Code/Dec to lower base.md",
-    "Java/Example Of Code/Hello World.md",
-    "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
-    "c++/Example Of code/Rapor.md",
-    "c++/Example Of code/Permutation.md",
-    "c++/Example Of code/Score checker.md",
-    "c++/Example Of code/Aritmatika.md",
-    "c++/Example Of code/AoC 2015 d2.md",
-    "c++/Example Of code/a-b palindrome check.md",
     "Javascript/NS2/Example Code",
     "Javascript/NS2",
     "Javascript",
     "Java/Data",
-    "Java/File",
-    "Java/Class/Untitled",
-    "Kuliah/Jaringan Komputer/WLAN",
-    "Excalidraw/Scripts/Downloaded/~syncthing~Fixed horizontal distance between centers.md.tmp",
-    "Java/Method",
-    "Kuliah/Mtk-D/Induksi Mtk/Tugas",
-    "Kuliah/Lkmm/Mind map.canvas",
+    "Kuliah/Semester I/Lkmm/Mind map.canvas",
     "Untitled.canvas",
     "img/1 wbYRk65-lnwsWYSFJ656xw.png",
     "img/simple_present_tense 1.png",

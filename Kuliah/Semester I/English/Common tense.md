@@ -5,6 +5,6 @@ Plural
 Progressive
 Perfect
 
-[[Kuliah/English/Part Of Speech/Simple present tense]]
+[[Kuliah/Semester I/English/Part Of Speech/Simple present tense]]
 [[Simple past tense]]
 [[Future Tense]]

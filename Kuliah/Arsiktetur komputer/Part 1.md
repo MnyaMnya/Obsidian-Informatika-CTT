@@ -1,9 +1,9 @@
-Architecture attribute yang digunakan programmer yang memiliki efek kepada langkah eksekusi program atau code
-
-Ref: william stalling book Comp org and arch
+_Architecture_ adalah attribute yang digunakan programmer dan memiliki efek kepada langkah eksekusi program atau code
 
 
 Organization adalah bagaimananya fitur itu diimplementasikan
+
+Ref: william stalling book Comp org and arch
 
 >In a **nutshell**
 Architecture is the logic and organization is how the logic is implemented
