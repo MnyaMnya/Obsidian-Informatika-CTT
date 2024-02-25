@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Arsiktetur komputer/Part 2.md",
+                "file": "c++/Example Of code/a-b %c=0 %d!=0.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6915c040a853e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuliah/Arsiktetur komputer/Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,10 +267,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58f177c24f6c1a91",
+  "active": "c6915c040a853e3b",
   "lastOpenFiles": [
-    "Kuliah/Arsiktetur komputer/Part 1.md",
+    "Javascript/NS2/Example Code/HacknetCore.md",
+    "c++/Example Of code/a-b %c=0 %d!=0.md",
     "Kuliah/Arsiktetur komputer/Part 2.md",
+    "Kuliah/Arsiktetur komputer/Part 1.md",
+    "Kuliah/A.I/Pengantar/Pengertian.md",
     "c++/Example Of code/Bin to int.md",
     "c++/Example Of code/Rapor.md",
     "c++/Example Of code/Prime num %a=0 %b!=0.md",
@@ -280,15 +295,12 @@
     "Kuliah/Statistika dan probabilitas/Deskriptif.md",
     "Kuliah/Statistika dan probabilitas/Data kuantitatif.md",
     "Kuliah/Statistika dan probabilitas",
-    "Kuliah/A.I/Pengantar/Pengertian.md",
     "Kuliah/A.I/Pengantar.md",
     "Kuliah/A.I/Pengantar",
     "Kuliah/A.I",
     "Java/Class/Random.md",
     "Task/(Every F) Praktikum Basis Data IF.md",
     "Task/(Every R) Organisasi dan arsiktetur komp H 2.5.md",
-    "Task/(Every W) PKN A 1.7.md",
-    "Task/(Every T) Praktikum struktur data IF.md",
     "Javascript/NS2/Example Code",
     "Javascript/NS2",
     "Javascript",
