@@ -48,11 +48,12 @@ For many cases, the `ArrayList` is more efficient as it is common to need access
 
 |Method|Description|
 |---|---|
-|addFirst()|Adds an item to the beginning of the list.||
+|addFirst()|Adds an item to the beginning of the list.|
 
 | addLast()     | Add an item to the end of the list             |
 | ------------- | ---------------------------------------------- |
 | removeFirst() | Remove an item from the beginning of the list. |
 | removeLast()  | Remove an item from the end of the list        |
 | getFirst()    | Get the item at the beginning of the list      |
-| getLast()     | Get the item at the end of the list            |                                        |
+| getLast()     | Get the item at the end of the list            |
+|               |                                                |

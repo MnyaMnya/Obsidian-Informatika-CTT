@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Data/List.md",
+                "file": "Kuliah/Struktur Data/Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/Data/List.md",
+            "file": "Kuliah/Struktur Data/Part 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Java/Data/List.md",
+            "file": "Kuliah/Struktur Data/Part 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,7 +193,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Java/Data/List.md"
+            "file": "Kuliah/Struktur Data/Part 1.md"
           }
         }
       },
@@ -238,15 +238,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5fb4470c1e5b8c6",
+  "active": "fb8ed7a6fc2bda34",
   "lastOpenFiles": [
+    "Kuliah/Arsiktetur komputer/Part 2.md",
+    "Java/Method/Scope.md",
+    "Java/File/File.md",
     "Java/Example Of Code/LeetCode-RomanToInteger.md",
+    "Java/Data/ArrayList.md",
+    "Java/Data/List.md",
+    "Java/Data/Linked List.md",
+    "Java/Data/Hash Map.md",
+    "Java/Data/Iterator.md",
+    "Java/Math/More Math.md",
+    "Java/Data/Wrapper.md",
+    "Java/Data/RegEx.md",
     "Java/Example Of Code/LeetCode-PalindromeNumber.md",
     "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
     "Java/Example Of Code/Perangko.md",
     "Java/Example Of Code/AoC 2022 d1 part 1.md",
-    "Java/Data/Linked List.md",
-    "Java/Data/List.md",
     "Kuliah/Struktur Data/Part 1.md",
     "Java/Class/Interface.md",
     "Java/Class/Package.md",
@@ -255,19 +264,10 @@
     "Java/Example Of Code/Dec to lower base.md",
     "Java/Example Of Code/AoC 2015 d2 part2.md",
     "Kuliah/Statistika dan probabilitas/Deskriptif.md",
-    "Java/Math/More Math.md",
     "Kuliah/Struktur Data",
     "Kuliah/Semester I/Jaringan Komputer/Networking/Networking.md",
     "Kuliah/Semester I/Jaringan Komputer/Networking",
     "Kuliah/Semester I/IoT/IoT.md",
-    "Kuliah/Semester I/Mtk-D/Mtk diskrit.md",
-    "Kuliah/Semester I/Mtk-D/Fungsi/Relasi.md",
-    "Kuliah/Semester I/English/Part of speech.md",
-    "Kuliah/Semester I/Mtk-D/Proposisi.md",
-    "Kuliah/Semester I/English/Part Of Speech/Pronoun.md",
-    "Kuliah/Semester I/Pai/Hukum Dasar.md",
-    "Kuliah/Semester I/English/Part Of Speech/Simple present tense.md",
-    "Kuliah/Semester I/Mtk-D/Proposisi/Interpretasi.md",
     "Kuliah/Semester I/English/Common tense",
     "Kuliah/Semester I/Jaringan Komputer/File sharing",
     "Kuliah/Semester I/Lkmm/Lkmmtd/Hari 1",

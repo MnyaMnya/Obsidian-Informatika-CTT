@@ -1,9 +1,9 @@
-A collection storing an ordered sequence of elements
+A collection storing an **ordered** sequence of elements
 
 - Each item accessible by an index
 - A list has a defined as the number of element in the list
 
-List method
+## List method
 
 | Method   | function                                                   |
 | -------- | ---------------------------------------------------------- |
