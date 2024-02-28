@@ -1,4 +1,4 @@
-Another way to achieve [abstraction](https://www.w3schools.com/java/java_abstract.asp) in Java, is with interfaces.
+Another way to achieve [abstraction](https://github.com/MnyaMnya/Obsidian-Informatika-CTT/blob/main/Java/Class/Abstraction.md) in Java, is with interfaces.
 
 An `interface` is a completely "**abstract class**" that is used to group related methods with empty bodies:
 
