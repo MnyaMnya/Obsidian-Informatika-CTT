@@ -16,3 +16,7 @@ A coded structure that contains data and behavior
 ## Abstract data type
 - abstract for expected operation and behavior
 - define the input and output not the **implementation** 
+
+## Java collection 
+
+Java provide ADT Stack and queue, **but not** linked list
