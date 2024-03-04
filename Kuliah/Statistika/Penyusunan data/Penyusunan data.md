@@ -22,6 +22,11 @@
 - digunakan untuk memahami pola / distribusi data
 
 ### Polygon
+- 
+
+### Ogif
+- digunakan untuk menggambarkan distribusi frekuensi kumulatif lebih atau kurang dari
+- diagram garis yang menunjukkan kombinasi antara interval kelas dan frekuensi kumulatif
 
 
 ---

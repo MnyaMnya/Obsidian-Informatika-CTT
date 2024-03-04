@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+                "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -205,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md"
+            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md"
           }
         }
       },
@@ -252,8 +252,8 @@
   },
   "active": "ca8a073c96a6a60f",
   "lastOpenFiles": [
-    "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
     "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+    "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
     "Kuliah/Statistika/Pengorganisasian Data",
     "Kuliah/Statistika/Penyusunan data/Jenis table/Table kontigensi.md",
     "Kuliah/Statistika/Penyusunan data/Jenis table/Table 2 arah.md",
