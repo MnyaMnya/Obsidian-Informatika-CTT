@@ -1,0 +1,1 @@
+Memiliki dua kategori

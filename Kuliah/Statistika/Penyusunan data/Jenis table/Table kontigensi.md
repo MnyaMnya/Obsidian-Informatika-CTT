@@ -1,0 +1,1 @@
+Table baris kolom yang menyajikan data

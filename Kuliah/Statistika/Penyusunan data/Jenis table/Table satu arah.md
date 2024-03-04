@@ -1,0 +1,1 @@
+Table Yang hanya memiliki satu kategori

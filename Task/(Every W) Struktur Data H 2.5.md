@@ -1,5 +1,5 @@
 ---
-title: Struktur Data
+title: Struktur Data H 2.5
 allDay: false
 startTime: 07:30
 endTime: 09:00
