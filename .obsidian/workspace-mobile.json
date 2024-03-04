@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
+                "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
+            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
+            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -205,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md"
+            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md"
           }
         }
       },
@@ -252,8 +252,14 @@
   },
   "active": "ca8a073c96a6a60f",
   "lastOpenFiles": [
-    "Kuliah/Statistika/Deskriptif.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table/Table kontigensi.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table/Table 2 arah.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table/Table satu arah.md",
+    "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table",
     "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
+    "Kuliah/Statistika/Penyusunan data",
+    "Kuliah/Statistika/Deskriptif.md",
     "Kuliah/Statistika/Pengantar/Skala pengukuran.md",
     "Kuliah/Statistika/Pengantar",
     "Kuliah/Statistika/Pengantar/Jenis Data/Kuantitatif.md",
@@ -276,17 +282,12 @@
     "Java/Data/ArrayList.md",
     "Java/Data/List.md",
     "Java/Data/Linked List.md",
-    "Java/Data/Hash Map.md",
-    "Java/Data/Iterator.md",
-    "Java/Data/Wrapper.md",
     "Kuliah/Struktur Data",
     "Kuliah/Semester I/Jaringan Komputer/Networking",
     "Kuliah/Semester I/English/Common tense",
     "Kuliah/Semester I/Jaringan Komputer/File sharing",
     "Kuliah/Semester I/Lkmm/Lkmmtd/Hari 1",
     "Kuliah/Semester I/Lkmm/Lkmmtd/Hari 2",
-    "Kuliah/Semester I/Mtk-D/Induksi Mtk/Tugas",
-    "Kuliah/Semester I/Mtk-D/Proposisi/Operator logika",
     "Kuliah/Semester I/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Mind map.canvas",
     "Untitled.canvas",
