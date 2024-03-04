@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Statistika dan probabilitas/Inferensial.md",
+                "file": "IT/ASCII.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,11 +67,9 @@
             "id": "fb8ed7a6fc2bda34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Kuliah/Struktur Data/Part 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-23 09.52.16.excalidraw.md"
               }
             }
           },
@@ -86,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca8a073c96a6a60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -147,7 +157,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -164,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuliah/Struktur Data/Part 1.md",
+            "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuliah/Struktur Data/Part 1.md",
+            "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -193,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuliah/Struktur Data/Part 1.md"
+            "file": "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md"
           }
         }
       },
@@ -238,8 +250,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fb8ed7a6fc2bda34",
+  "active": "ca8a073c96a6a60f",
   "lastOpenFiles": [
+    "Kuliah/Statistika/Deskriptif.md",
+    "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
+    "Kuliah/Statistika/Pengantar/Skala pengukuran.md",
+    "Kuliah/Statistika/Pengantar",
+    "Kuliah/Statistika/Pengantar/Jenis Data/Kuantitatif.md",
+    "Kuliah/Statistika/Pengantar/Jenis data.md",
+    "Kuliah/Statistika/Pengantar/Sumber data.md",
+    "Kuliah/Statistika/Inferensial.md",
+    "Kuliah/Statistika/Pengantar/Jenis Data",
+    "Kuliah/Statistika/INDEX.md",
+    "Kuliah/Statistika/Pengantar.md",
+    "Kuliah/Pancasila/INDEX.md",
+    "Kuliah/Statistika.md",
+    "Kuliah/Statistika/Pengantar/Jenis Data/Data kuantitatif.md",
+    "Java/Math/More Math.md",
+    "IT/ASCII.md",
+    "Kuliah/Struktur Data/Part 1.md",
     "Kuliah/Arsiktetur komputer/Part 2.md",
     "Java/Method/Scope.md",
     "Java/File/File.md",
@@ -249,33 +278,15 @@
     "Java/Data/Linked List.md",
     "Java/Data/Hash Map.md",
     "Java/Data/Iterator.md",
-    "Java/Math/More Math.md",
     "Java/Data/Wrapper.md",
-    "Java/Data/RegEx.md",
-    "Java/Example Of Code/LeetCode-PalindromeNumber.md",
-    "Java/Example Of Code/LeetCode-ContainsDuplicate.md",
-    "Java/Example Of Code/Perangko.md",
-    "Java/Example Of Code/AoC 2022 d1 part 1.md",
-    "Kuliah/Struktur Data/Part 1.md",
-    "Java/Class/Interface.md",
-    "Java/Class/Package.md",
-    "Java/Class/OOP.md",
-    "Kuliah/Arsiktetur komputer/Part 1.md",
-    "Java/Example Of Code/Dec to lower base.md",
-    "Java/Example Of Code/AoC 2015 d2 part2.md",
-    "Kuliah/Statistika dan probabilitas/Deskriptif.md",
     "Kuliah/Struktur Data",
-    "Kuliah/Semester I/Jaringan Komputer/Networking/Networking.md",
     "Kuliah/Semester I/Jaringan Komputer/Networking",
-    "Kuliah/Semester I/IoT/IoT.md",
     "Kuliah/Semester I/English/Common tense",
     "Kuliah/Semester I/Jaringan Komputer/File sharing",
     "Kuliah/Semester I/Lkmm/Lkmmtd/Hari 1",
     "Kuliah/Semester I/Lkmm/Lkmmtd/Hari 2",
     "Kuliah/Semester I/Mtk-D/Induksi Mtk/Tugas",
     "Kuliah/Semester I/Mtk-D/Proposisi/Operator logika",
-    "Kuliah/Semester I/Jaringan Komputer/WLAN",
-    "Kuliah/Semester I/Bahasa Indonesia/References",
     "Kuliah/Semester I/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Mind map.canvas",
     "Untitled.canvas",
