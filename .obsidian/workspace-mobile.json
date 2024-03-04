@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
+                "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
+            "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
+            "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -205,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuliah/Statistika/Penyusunan data/Penyusunan data.md"
+            "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md"
           }
         }
       },
@@ -245,17 +245,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ca8a073c96a6a60f",
   "lastOpenFiles": [
+    "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
+    "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+    "Kuliah/Statistika/Pengorganisasian Data",
     "Kuliah/Statistika/Penyusunan data/Jenis table/Table kontigensi.md",
     "Kuliah/Statistika/Penyusunan data/Jenis table/Table 2 arah.md",
     "Kuliah/Statistika/Penyusunan data/Jenis table/Table satu arah.md",
-    "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
     "Kuliah/Statistika/Penyusunan data/Jenis table",
     "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
     "Kuliah/Statistika/Penyusunan data",
@@ -281,13 +283,11 @@
     "Java/Example Of Code/LeetCode-RomanToInteger.md",
     "Java/Data/ArrayList.md",
     "Java/Data/List.md",
-    "Java/Data/Linked List.md",
     "Kuliah/Struktur Data",
     "Kuliah/Semester I/Jaringan Komputer/Networking",
     "Kuliah/Semester I/English/Common tense",
     "Kuliah/Semester I/Jaringan Komputer/File sharing",
     "Kuliah/Semester I/Lkmm/Lkmmtd/Hari 1",
-    "Kuliah/Semester I/Lkmm/Lkmmtd/Hari 2",
     "Kuliah/Semester I/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Mind map.canvas",
     "Untitled.canvas",

@@ -15,11 +15,11 @@
 - untuk menggambarkan persentase
 
 ### Scatter plot
-- digunakan untuk menggambarkan hubungan antara 2 variable seperti korelasi neg/positif
+- digunakan untuk menggambarkan korelasi neg/positif dari 2 variable 
 - juga bisa digunakan untuk memberikan informasi mengenai pola sebaran data
 
 ### Histogram
-- digunakan untuk memahami pola / ditribusi data
+- digunakan untuk memahami pola / distribusi data
 
 ### Polygon
 

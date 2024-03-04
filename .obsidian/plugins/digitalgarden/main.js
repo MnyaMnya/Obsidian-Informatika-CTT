@@ -10304,299 +10304,6 @@ var require_once = __commonJS({
   }
 });
 
-// node_modules/dotenv/package.json
-var require_package = __commonJS({
-  "node_modules/dotenv/package.json"(exports, module2) {
-    module2.exports = {
-      name: "dotenv",
-      version: "16.3.1",
-      description: "Loads environment variables from .env file",
-      main: "lib/main.js",
-      types: "lib/main.d.ts",
-      exports: {
-        ".": {
-          types: "./lib/main.d.ts",
-          require: "./lib/main.js",
-          default: "./lib/main.js"
-        },
-        "./config": "./config.js",
-        "./config.js": "./config.js",
-        "./lib/env-options": "./lib/env-options.js",
-        "./lib/env-options.js": "./lib/env-options.js",
-        "./lib/cli-options": "./lib/cli-options.js",
-        "./lib/cli-options.js": "./lib/cli-options.js",
-        "./package.json": "./package.json"
-      },
-      scripts: {
-        "dts-check": "tsc --project tests/types/tsconfig.json",
-        lint: "standard",
-        "lint-readme": "standard-markdown",
-        pretest: "npm run lint && npm run dts-check",
-        test: "tap tests/*.js --100 -Rspec",
-        prerelease: "npm test",
-        release: "standard-version"
-      },
-      repository: {
-        type: "git",
-        url: "git://github.com/motdotla/dotenv.git"
-      },
-      funding: "https://github.com/motdotla/dotenv?sponsor=1",
-      keywords: [
-        "dotenv",
-        "env",
-        ".env",
-        "environment",
-        "variables",
-        "config",
-        "settings"
-      ],
-      readmeFilename: "README.md",
-      license: "BSD-2-Clause",
-      devDependencies: {
-        "@definitelytyped/dtslint": "^0.0.133",
-        "@types/node": "^18.11.3",
-        decache: "^4.6.1",
-        sinon: "^14.0.1",
-        standard: "^17.0.0",
-        "standard-markdown": "^7.1.0",
-        "standard-version": "^9.5.0",
-        tap: "^16.3.0",
-        tar: "^6.1.11",
-        typescript: "^4.8.4"
-      },
-      engines: {
-        node: ">=12"
-      },
-      browser: {
-        fs: false
-      }
-    };
-  }
-});
-
-// node_modules/dotenv/lib/main.js
-var require_main = __commonJS({
-  "node_modules/dotenv/lib/main.js"(exports, module2) {
-    var fs2 = require("fs");
-    var path = require("path");
-    var os = require("os");
-    var crypto2 = require("crypto");
-    var packageJson = require_package();
-    var version2 = packageJson.version;
-    var LINE = /(?:^|^)\s*(?:export\s+)?([\w.-]+)(?:\s*=\s*?|:\s+?)(\s*'(?:\\'|[^'])*'|\s*"(?:\\"|[^"])*"|\s*`(?:\\`|[^`])*`|[^#\r\n]+)?\s*(?:#.*)?(?:$|$)/mg;
-    function parse3(src) {
-      const obj = {};
-      let lines = src.toString();
-      lines = lines.replace(/\r\n?/mg, "\n");
-      let match2;
-      while ((match2 = LINE.exec(lines)) != null) {
-        const key = match2[1];
-        let value = match2[2] || "";
-        value = value.trim();
-        const maybeQuote = value[0];
-        value = value.replace(/^(['"`])([\s\S]*)\1$/mg, "$2");
-        if (maybeQuote === '"') {
-          value = value.replace(/\\n/g, "\n");
-          value = value.replace(/\\r/g, "\r");
-        }
-        obj[key] = value;
-      }
-      return obj;
-    }
-    function _parseVault(options) {
-      const vaultPath = _vaultPath(options);
-      const result = DotenvModule.configDotenv({ path: vaultPath });
-      if (!result.parsed) {
-        throw new Error(`MISSING_DATA: Cannot parse ${vaultPath} for an unknown reason`);
-      }
-      const keys = _dotenvKey(options).split(",");
-      const length = keys.length;
-      let decrypted;
-      for (let i = 0; i < length; i++) {
-        try {
-          const key = keys[i].trim();
-          const attrs = _instructions(result, key);
-          decrypted = DotenvModule.decrypt(attrs.ciphertext, attrs.key);
-          break;
-        } catch (error) {
-          if (i + 1 >= length) {
-            throw error;
-          }
-        }
-      }
-      return DotenvModule.parse(decrypted);
-    }
-    function _log(message) {
-      console.log(`[dotenv@${version2}][INFO] ${message}`);
-    }
-    function _warn(message) {
-      console.log(`[dotenv@${version2}][WARN] ${message}`);
-    }
-    function _debug(message) {
-      console.log(`[dotenv@${version2}][DEBUG] ${message}`);
-    }
-    function _dotenvKey(options) {
-      if (options && options.DOTENV_KEY && options.DOTENV_KEY.length > 0) {
-        return options.DOTENV_KEY;
-      }
-      if (process.env.DOTENV_KEY && process.env.DOTENV_KEY.length > 0) {
-        return process.env.DOTENV_KEY;
-      }
-      return "";
-    }
-    function _instructions(result, dotenvKey) {
-      let uri;
-      try {
-        uri = new URL(dotenvKey);
-      } catch (error) {
-        if (error.code === "ERR_INVALID_URL") {
-          throw new Error("INVALID_DOTENV_KEY: Wrong format. Must be in valid uri format like dotenv://:key_1234@dotenv.org/vault/.env.vault?environment=development");
-        }
-        throw error;
-      }
-      const key = uri.password;
-      if (!key) {
-        throw new Error("INVALID_DOTENV_KEY: Missing key part");
-      }
-      const environment = uri.searchParams.get("environment");
-      if (!environment) {
-        throw new Error("INVALID_DOTENV_KEY: Missing environment part");
-      }
-      const environmentKey = `DOTENV_VAULT_${environment.toUpperCase()}`;
-      const ciphertext = result.parsed[environmentKey];
-      if (!ciphertext) {
-        throw new Error(`NOT_FOUND_DOTENV_ENVIRONMENT: Cannot locate environment ${environmentKey} in your .env.vault file.`);
-      }
-      return { ciphertext, key };
-    }
-    function _vaultPath(options) {
-      let dotenvPath = path.resolve(process.cwd(), ".env");
-      if (options && options.path && options.path.length > 0) {
-        dotenvPath = options.path;
-      }
-      return dotenvPath.endsWith(".vault") ? dotenvPath : `${dotenvPath}.vault`;
-    }
-    function _resolveHome(envPath) {
-      return envPath[0] === "~" ? path.join(os.homedir(), envPath.slice(1)) : envPath;
-    }
-    function _configVault(options) {
-      _log("Loading env from encrypted .env.vault");
-      const parsed = DotenvModule._parseVault(options);
-      let processEnv = process.env;
-      if (options && options.processEnv != null) {
-        processEnv = options.processEnv;
-      }
-      DotenvModule.populate(processEnv, parsed, options);
-      return { parsed };
-    }
-    function configDotenv(options) {
-      let dotenvPath = path.resolve(process.cwd(), ".env");
-      let encoding = "utf8";
-      const debug = Boolean(options && options.debug);
-      if (options) {
-        if (options.path != null) {
-          dotenvPath = _resolveHome(options.path);
-        }
-        if (options.encoding != null) {
-          encoding = options.encoding;
-        }
-      }
-      try {
-        const parsed = DotenvModule.parse(fs2.readFileSync(dotenvPath, { encoding }));
-        let processEnv = process.env;
-        if (options && options.processEnv != null) {
-          processEnv = options.processEnv;
-        }
-        DotenvModule.populate(processEnv, parsed, options);
-        return { parsed };
-      } catch (e) {
-        if (debug) {
-          _debug(`Failed to load ${dotenvPath} ${e.message}`);
-        }
-        return { error: e };
-      }
-    }
-    function config(options) {
-      const vaultPath = _vaultPath(options);
-      if (_dotenvKey(options).length === 0) {
-        return DotenvModule.configDotenv(options);
-      }
-      if (!fs2.existsSync(vaultPath)) {
-        _warn(`You set DOTENV_KEY but you are missing a .env.vault file at ${vaultPath}. Did you forget to build it?`);
-        return DotenvModule.configDotenv(options);
-      }
-      return DotenvModule._configVault(options);
-    }
-    function decrypt(encrypted, keyStr) {
-      const key = Buffer.from(keyStr.slice(-64), "hex");
-      let ciphertext = Buffer.from(encrypted, "base64");
-      const nonce = ciphertext.slice(0, 12);
-      const authTag = ciphertext.slice(-16);
-      ciphertext = ciphertext.slice(12, -16);
-      try {
-        const aesgcm = crypto2.createDecipheriv("aes-256-gcm", key, nonce);
-        aesgcm.setAuthTag(authTag);
-        return `${aesgcm.update(ciphertext)}${aesgcm.final()}`;
-      } catch (error) {
-        const isRange = error instanceof RangeError;
-        const invalidKeyLength = error.message === "Invalid key length";
-        const decryptionFailed = error.message === "Unsupported state or unable to authenticate data";
-        if (isRange || invalidKeyLength) {
-          const msg = "INVALID_DOTENV_KEY: It must be 64 characters long (or more)";
-          throw new Error(msg);
-        } else if (decryptionFailed) {
-          const msg = "DECRYPTION_FAILED: Please check your DOTENV_KEY";
-          throw new Error(msg);
-        } else {
-          console.error("Error: ", error.code);
-          console.error("Error: ", error.message);
-          throw error;
-        }
-      }
-    }
-    function populate(processEnv, parsed, options = {}) {
-      const debug = Boolean(options && options.debug);
-      const override = Boolean(options && options.override);
-      if (typeof parsed !== "object") {
-        throw new Error("OBJECT_REQUIRED: Please check the processEnv argument being passed to populate");
-      }
-      for (const key of Object.keys(parsed)) {
-        if (Object.prototype.hasOwnProperty.call(processEnv, key)) {
-          if (override === true) {
-            processEnv[key] = parsed[key];
-          }
-          if (debug) {
-            if (override === true) {
-              _debug(`"${key}" is already defined and WAS overwritten`);
-            } else {
-              _debug(`"${key}" is already defined and was NOT overwritten`);
-            }
-          }
-        } else {
-          processEnv[key] = parsed[key];
-        }
-      }
-    }
-    var DotenvModule = {
-      configDotenv,
-      _configVault,
-      _parseVault,
-      config,
-      decrypt,
-      parse: parse3,
-      populate
-    };
-    module2.exports.configDotenv = DotenvModule.configDotenv;
-    module2.exports._configVault = DotenvModule._configVault;
-    module2.exports._parseVault = DotenvModule._parseVault;
-    module2.exports.config = DotenvModule.config;
-    module2.exports.decrypt = DotenvModule.decrypt;
-    module2.exports.parse = DotenvModule.parse;
-    module2.exports.populate = DotenvModule.populate;
-    module2.exports = DotenvModule;
-  }
-});
-
 // src/test/snapshot/generateGardenSnapshot.ts
 var generateGardenSnapshot_exports = {};
 __export(generateGardenSnapshot_exports, {
@@ -10831,7 +10538,7 @@ function generateUrlPath(filePath, slugifyPath = true) {
   if (!filePath) {
     return filePath;
   }
-  const extensionLessPath = filePath.substring(0, filePath.lastIndexOf("."));
+  const extensionLessPath = filePath.contains(".") ? filePath.substring(0, filePath.lastIndexOf(".")) : filePath;
   if (!slugifyPath) {
     return extensionLessPath + "/";
   }
@@ -10859,7 +10566,7 @@ function getRewriteRules(pathRewriteRules) {
 }
 function getGardenPathForNote(vaultPath, rules) {
   for (const { from, to } of rules) {
-    if (vaultPath.startsWith(from)) {
+    if (vaultPath && vaultPath.startsWith(from)) {
       const newPath = vaultPath.replace(from, to);
       if (newPath.startsWith("/")) {
         return newPath.replace("/", "");
@@ -10990,7 +10697,7 @@ var import_js_logger = __toESM(require_logger());
 var DataviewCompiler = class {
   constructor() {
     this.compile = (file) => (text2) => __async(this, null, function* () {
-      var _a2;
+      var _a2, _b, _c;
       let replacedText = text2;
       const dataViewRegex = new RegExp("```dataview\\s(.+?)```", "gms");
       const dvApi = (0, import_obsidian_dataview.getAPI)();
@@ -11070,14 +10777,12 @@ var DataviewCompiler = class {
           const code = inlineQuery[0];
           const query = inlineQuery[1];
           const dataviewResult = dvApi.tryEvaluate(query.trim(), {
-            // @ts-expect-error errors are caught
-            this: dvApi.page(file.getPath())
+            this: (_b = dvApi.page(file.getPath())) != null ? _b : {}
           });
           if (dataviewResult) {
             replacedText = replacedText.replace(
               code,
-              // @ts-expect-error errors are caught
-              dataviewResult.toString()
+              (_c = dataviewResult.toString()) != null ? _c : ""
             );
           }
         } catch (e) {
@@ -11152,14 +10857,13 @@ var DataviewCompiler = class {
   }
 };
 function tryDVEvaluate(query, file, dvApi) {
-  var _a2;
+  var _a2, _b;
   let result = "";
   try {
     const dataviewResult = dvApi.tryEvaluate(query.trim(), {
-      // @ts-expect-error errors are caught
-      this: dvApi.page(file.getPath())
+      this: (_a2 = dvApi.page(file.getPath())) != null ? _a2 : {}
     });
-    result = (_a2 = dataviewResult == null ? void 0 : dataviewResult.toString()) != null ? _a2 : "";
+    result = (_b = dataviewResult == null ? void 0 : dataviewResult.toString()) != null ? _b : "";
   } catch (e) {
     import_js_logger.default.warn("dvapi.tryEvaluate did not yield any result", e);
   }
@@ -17583,8 +17287,9 @@ var GardenPageCompiler = class {
               }
             } else if (transclusionFileName.includes("#")) {
               const refHeader = transclusionFileName.split("#")[1];
+              const headerSlug = (0, import_slugify2.default)(refHeader);
               const headerInFile = (_a2 = metadata == null ? void 0 : metadata.headings) == null ? void 0 : _a2.find(
-                (header2) => header2.heading === refHeader
+                (header2) => (0, import_slugify2.default)(header2.heading) === headerSlug
               );
               sectionID = `#${(0, import_slugify2.default)(refHeader)}`;
               if (headerInFile && (metadata == null ? void 0 : metadata.headings)) {
@@ -17612,7 +17317,7 @@ var GardenPageCompiler = class {
               headerName,
               linkedFile
             );
-            const headerSection = header ? `$<div class="markdown-embed-title">
+            const headerSection = header ? `<div class="markdown-embed-title">
 
 ${header}
 
@@ -17681,6 +17386,9 @@ ${headerSection}
             let svgText = yield this.vault.read(linkedFile);
             if (svgText && size) {
               svgText = setWidth(svgText, size);
+            }
+            if (svgText) {
+              svgText = svgText.replace(/[\t\n\r]/g, "");
             }
             text2 = text2.replace(svg, svgText);
           } catch (e) {
@@ -17789,14 +17497,17 @@ ${headerSection}
               imageMatch.indexOf("]")
             ).split("|");
             const lastValue = metaDataAndSize[metaDataAndSize.length - 1];
-            const lastValueIsSize = !isNaN(parseInt(lastValue));
-            const size = lastValueIsSize ? lastValue : void 0;
+            const hasSeveralValues = metaDataAndSize.length > 0;
+            const lastValueIsSize = hasSeveralValues && !isNaN(parseInt(lastValue));
+            const lastValueIsMetaData = !lastValueIsSize && hasSeveralValues;
+            const size = lastValueIsSize ? lastValue : null;
             let metaData = "";
-            if (metaDataAndSize.length > 1) {
+            const metaDataIsMiddleValues = metaDataAndSize.length > 1;
+            if (metaDataIsMiddleValues) {
               metaData = metaDataAndSize.slice(0, metaDataAndSize.length - 1).join(" ");
             }
-            if (!lastValueIsSize) {
-              metaData += ` ${lastValue}`;
+            if (lastValueIsMetaData) {
+              metaData = `${lastValue}`;
             }
             const imagePath = (0, import_obsidian3.getLinkpath)(imageName);
             const linkedFile = this.metadataCache.getFirstLinkpathDest(
@@ -17814,6 +17525,8 @@ ${headerSection}
               name = `${imageName}|${metaData}|${size}`;
             } else if (size) {
               name = `${imageName}|${size}`;
+            } else if (metaData && metaData !== "") {
+              name = `${imageName}|${metaData}`;
             } else {
               name = imageName;
             }
@@ -19003,9 +18716,10 @@ var Publisher = class {
         githubUserName: this.settings.githubUserName,
         githubToken: this.settings.githubToken
       });
-      return !!userGardenConnection.deleteFile(path, {
+      const deleted = yield userGardenConnection.deleteFile(path, {
         sha
       });
+      return !!deleted;
     });
   }
   publish(file) {
@@ -23245,7 +22959,7 @@ var PublishStatusManager = class {
       const unpublishedNotes = [];
       const publishedNotes = [];
       const changedNotes = [];
-      const contentTree = yield this.siteManager.userGardenConnection.getContent("main");
+      const contentTree = yield this.siteManager.userGardenConnection.getContent("HEAD");
       if (!contentTree) {
         throw new Error("Could not get content tree from base garden");
       }
@@ -23612,12 +23326,14 @@ var DigitalGardenSiteManager = class {
       const theme = JSON.parse(this.settings.theme);
       const baseTheme = this.settings.baseTheme;
       const siteName = this.settings.siteName;
+      const mainLanguage = this.settings.mainLanguage;
       let gardenBaseUrl = "";
       if (this.settings.gardenBaseUrl && !this.settings.gardenBaseUrl.startsWith("ghp_") && !this.settings.gardenBaseUrl.startsWith("github_pat") && this.settings.gardenBaseUrl.contains(".")) {
         gardenBaseUrl = this.settings.gardenBaseUrl;
       }
       const envValues = {
         SITE_NAME_HEADER: siteName,
+        SITE_MAIN_LANGUAGE: mainLanguage,
         SITE_BASE_URL: gardenBaseUrl,
         SHOW_CREATED_TIMESTAMP: this.settings.showCreatedTimestamp,
         TIMESTAMP_FORMAT: this.settings.timestampFormat,
@@ -23627,7 +23343,9 @@ var DigitalGardenSiteManager = class {
         NOTE_ICON_FILETREE: this.settings.showNoteIconInFileTree,
         NOTE_ICON_INTERNAL_LINKS: this.settings.showNoteIconOnInternalLink,
         NOTE_ICON_BACK_LINKS: this.settings.showNoteIconOnBackLink,
-        STYLE_SETTINGS_CSS: this.settings.styleSettingsCss
+        STYLE_SETTINGS_CSS: this.settings.styleSettingsCss,
+        STYLE_SETTINGS_BODY_CLASSES: this.settings.styleSettingsBodyClasses,
+        USE_FULL_RESOLUTION_IMAGES: this.settings.useFullResolutionImages
       };
       if (theme.name !== "default") {
         envValues["THEME"] = theme.cssUrl;
@@ -28210,9 +27928,9 @@ function instance7($$self, $$props, $$invalidate) {
     const oldRewriteRules = getRewriteRules(oldRules);
     const files = yield publisher.getFilesMarkedForPublishing();
     const paths = files.notes.map((note) => ({
-      id: note.path,
-      newPath: getGardenPathForNote(note.path, newRewriteRules),
-      oldPath: getGardenPathForNote(note.path, oldRewriteRules)
+      id: note.file.path,
+      newPath: getGardenPathForNote(note.file.path, newRewriteRules),
+      oldPath: getGardenPathForNote(note.file.path, oldRewriteRules)
     }));
     return paths;
   });
@@ -28490,30 +28208,49 @@ var SettingView = class {
         ) {
           themeModal.contentEl.createEl("h2", { text: "Style Settings Plugin" }).prepend(this.getIcon("paintbrush"));
           new import_obsidian13.Setting(themeModal.contentEl).setName("Apply current style settings to site").setDesc(
-            "Click the apply button to use the current style settings from the Style Settings Plugin on your site."
+            "Click the apply button to use the current style settings from the Style Settings Plugin on your site. (The plugin looks at the currently APPLIED settings. Meaning you need to have the theme you are using in the garden selected in Obsidian before applying)"
           ).addButton((btn) => {
             btn.setButtonText("Apply Style Settings");
             btn.setClass("mod-cta");
             btn.onClick((_ev) => __async(this, null, function* () {
+              var _a2;
               new import_obsidian13.Notice("Applying Style Settings...");
               const styleSettingsNode = document.querySelector(
                 "#css-settings-manager"
               );
-              if (!styleSettingsNode) {
+              const bodyClasses = (_a2 = document.querySelector("body")) == null ? void 0 : _a2.className;
+              if (!styleSettingsNode && !bodyClasses) {
                 new import_obsidian13.Notice("No Style Settings found");
                 return;
               }
-              this.settings.styleSettingsCss = styleSettingsNode.innerHTML;
-              if (!this.settings.styleSettingsCss) {
+              if (styleSettingsNode == null ? void 0 : styleSettingsNode.innerHTML) {
+                this.settings.styleSettingsCss = styleSettingsNode == null ? void 0 : styleSettingsNode.innerHTML;
+              }
+              if (bodyClasses) {
+                this.settings.styleSettingsBodyClasses = `${bodyClasses}`;
+              }
+              if (!this.settings.styleSettingsCss && !this.settings.styleSettingsBodyClasses) {
                 new import_obsidian13.Notice("No Style Settings found");
                 return;
               }
-              this.saveSiteSettingsAndUpdateEnv(
+              yield this.saveSiteSettingsAndUpdateEnv(
                 this.app.metadataCache,
                 this.settings,
                 this.saveSettings
               );
               new import_obsidian13.Notice("Style Settings applied to site");
+            }));
+          }).addButton((btn) => {
+            btn.setButtonText("Clear");
+            btn.onClick((_ev) => __async(this, null, function* () {
+              this.settings.styleSettingsCss = "";
+              this.settings.styleSettingsBodyClasses = "";
+              yield this.saveSiteSettingsAndUpdateEnv(
+                this.app.metadataCache,
+                this.settings,
+                this.saveSettings
+              );
+              new import_obsidian13.Notice("Style Settings removed from site");
             }));
           });
         }
@@ -28558,8 +28295,16 @@ var SettingView = class {
           yield this.saveSettings();
         }))
       );
+      new import_obsidian13.Setting(themeModal.contentEl).setName("Main language").setDesc(
+        "Language code (ISO 639-1) for the main language of your site. This is used to set the correct language on your site to assist search engines and browsers."
+      ).addText(
+        (text2) => text2.setValue(this.settings.mainLanguage).onChange((value) => __async(this, null, function* () {
+          this.settings.mainLanguage = value;
+          yield this.saveSettings();
+        }))
+      );
       new import_obsidian13.Setting(themeModal.contentEl).setName("Favicon").setDesc(
-        "Path to an svg in your vault you wish to use as a favicon. Leave blank to use default."
+        "Path to an svg in your vault you wish to use as a favicon. Leave blank to use default. Must be square! (eg. 16x16)"
       ).addText((tc) => {
         tc.setPlaceholder("myfavicon.svg");
         tc.setValue(this.settings.faviconPath);
@@ -28568,6 +28313,15 @@ var SettingView = class {
           yield this.saveSettings();
         }));
         new SvgFileSuggest(this.app, tc.inputEl);
+      });
+      new import_obsidian13.Setting(themeModal.contentEl).setName("Use full resolution images").setDesc(
+        "By default, the images on your site are compressed to make your site load faster. If you instead want to use the full resolution images, enable this setting."
+      ).addToggle((toggle) => {
+        toggle.setValue(this.settings.useFullResolutionImages);
+        toggle.onChange((val) => __async(this, null, function* () {
+          this.settings.useFullResolutionImages = val;
+          yield this.saveSettings();
+        }));
       });
       new import_obsidian13.Setting(themeModal.contentEl).addButton(handleSaveSettingsButton);
       themeModal.contentEl.createEl("h2", { text: "Timestamps Settings" }).prepend(this.getIcon("calendar-clock"));
@@ -29071,9 +28825,7 @@ var DigitalGardenSettingTab = class extends import_obsidian15.PluginSettingTab {
 };
 
 // main.ts
-var import_dotenv = __toESM(require_main());
 var import_js_logger9 = __toESM(require_logger());
-import_dotenv.default.config();
 var DEFAULT_SETTINGS = {
   githubRepo: "",
   githubToken: "",
@@ -29083,8 +28835,10 @@ var DEFAULT_SETTINGS = {
   baseTheme: "dark",
   theme: '{"name": "default", "modes": ["dark"]}',
   faviconPath: "",
+  useFullResolutionImages: false,
   noteSettingsIsInitialized: false,
   siteName: "Digital Garden",
+  mainLanguage: "en",
   slugifyEnabled: true,
   // Note Icon Related Settings
   noteIconKey: "dg-note-icon",
@@ -29100,6 +28854,7 @@ var DEFAULT_SETTINGS = {
   updatedTimestampKey: "",
   timestampFormat: "MMM dd, yyyy h:mm a",
   styleSettingsCss: "",
+  styleSettingsBodyClasses: "",
   pathRewriteRules: "",
   customFilters: [],
   contentClassesKey: "dg-content-classes",
