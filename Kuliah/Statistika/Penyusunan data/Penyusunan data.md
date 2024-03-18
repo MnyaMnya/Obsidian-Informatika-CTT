@@ -1,5 +1,6 @@
 ## Jenis Table
 
+
 ## Jenis Grafik
 
 ### Grafik garis
