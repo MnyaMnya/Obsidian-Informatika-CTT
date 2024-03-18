@@ -20,6 +20,12 @@ To create an array of integers, you could write:
 int[] myNum = {10, 20, 30, 40};
 ```
 
+Or you could create an empty array
+
+```java
+int[] emptyArr = new int[5];
+```
+
 ---
 
 ## Access the Elements of an Array

@@ -18,7 +18,7 @@ public class Kata {
     for(String thisWord:arr) {
     //check if thisWord can fit in old Line
     	if((thisWord.length()+lastLine.length())+1>width) {
-    	//if is used to prevent divided by zero
+    	//"if" is used to prevent divided by zero error
         if(wordUsed.size()-1>0){
         // find space that needed for this line
     		spaceNeed=(width-(lastLine.length()))/(wordUsed.size()-1);
@@ -30,13 +30,14 @@ public class Kata {
     				for(int i=0;i<=spaceNeed;i++) {
     					tempLine=tempLine+" ";
     				}
+    //add the remainder of space
     			if(spaceRem>0) {
     				tempLine=tempLine+" ";
     				spaceRem=spaceRem-1;
     			}
     		}
     		}
-    		//reset some variable
+    	//reset some variable
     		text=text+tempLine+"\n";
     		lastLine="";
     		wordUsed.clear();
@@ -47,7 +48,7 @@ public class Kata {
     	// add the word to the line
     	thisLine=thisLine+thisWord;
     	wordUsed.add(thisWord);
-    	//add space if this word is not the first in this line
+    	//add space if thisWord is not the first in this line
     	if(lastLine !="") {
     		lastLine = lastLine+" "+thisWord;
     	}

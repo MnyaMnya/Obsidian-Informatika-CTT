@@ -1,0 +1,1 @@
+Digunakan untuk memprediksi sifat populasi 
