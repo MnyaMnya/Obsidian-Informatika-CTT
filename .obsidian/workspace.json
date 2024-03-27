@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+                "file": "VSRG/Guideline.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,13 +23,16 @@
             "id": "c6915c040a853e3b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/simple_present_tense 1.png"
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md"
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md"
               }
             }
           },
@@ -220,48 +223,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7addaff81b252ca",
+  "active": "c6915c040a853e3b",
   "lastOpenFiles": [
-    "Kuliah/Struktur Data/Part 1.md",
-    "Kuliah/Statistika/INDEX.md",
-    "Kuliah/Statistika/Penyusunan data/Penyusunan data.md",
+    "Kuliah/Arsiktetur komputer/Index.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/3. Adressing Modes.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/4. Memory based vs Register Based.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/2. ASM vs HIGH level lang.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/6. Harvard Architecture.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/5. Computer Organization Von Neumann architecture.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/1b. Apa itu CPU.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/1. Apa itu komputer.md",
+    "3.` `Adressing.md",
+    "3..md",
+    "Kuliah/Arsiktetur komputer/Part 2.md",
+    "Kuliah/Arsiktetur komputer/Part 1.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction",
+    "SQL/Data type SQL.md",
+    "SQL/Data type.md",
+    "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
+    "VSRG/Guideline.md",
+    "SQL",
+    "Kuliah/Statistika/Pengantar/Jenis Data/Kuantitatif.md",
+    "Kuliah/Statistika/Pengantar/Jenis data.md",
     "Kuliah/Statistika/Pengantar/Skala pengukuran.md",
     "Kuliah/Statistika/Pengantar/Sumber data.md",
-    "Kuliah/Statistika/Pengantar/Jenis data.md",
-    "Kuliah/Statistika/Pengantar/Jenis Data/Kuantitatif.md",
-    "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
-    "Kuliah/Statistika/Pengantar/Jenis Data/Data kuantitatif.md",
-    "Kuliah/Statistika/Penyusunan data/Jenis table/Table kontigensi.md",
     "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
-    "Java/Array/Array.md",
-    "Java/Array/Array Loop.md",
-    "Java/Basic/Comment.md",
-    "Java/Basic/Break.md",
-    "Java/Example Of Code/CodeWars-Text Align Justify.md",
-    "Java/Example Of Code/AoC 2015 d2 part2.md",
-    "Java/Example Of Code/AoC 2022 d1 part 1.md",
-    "Java/Condition/Shorthand If..Else.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table/Table satu arah.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table/Table 2 arah.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table/Table kontigensi.md",
+    "img/simple_present_tense 1.png",
+    "VSRG",
+    "Kuliah/Struktur Data/Part 2.md",
+    "Kuliah/Statistika/Jenis pengukuran",
     "img/1 wbYRk65-lnwsWYSFJ656xw.png",
     "img/tux.png",
     "img/simple-present-tense.png",
-    "img/simple_present_tense 1.png",
-    "Java/Array/Multidimensional Array.md",
-    "Excalidraw/Drawing 2023-09-23 09.52.16.excalidraw.md",
-    "Java/Class/Package.md",
-    "Java/Class/Random.md",
-    "Java/Example Of Code/Perangko.md",
-    "Kuliah/Semester I/Mtk-D/Proposisi/Formula.md",
-    "c++/Example Of code/a-b %c=0 %d!=0.md",
     "Kuliah/Struktur Data",
     "Kuliah/Statistika/Penyusunan data/Jenis table",
     "Kuliah/Statistika/Pengantar/Jenis Data",
     "Kuliah/Statistika/Penyusunan data",
     "Kuliah/Statistika/Pengorganisasian Data",
     "Kuliah/Statistika/Pengantar",
-    "Kuliah/Statistika",
-    "Kuliah/Semester I",
-    "Kuliah/Pancasila",
-    "Kuliah/Arsiktetur komputer",
     "Kuliah/Semester I/Lkmm/Mind map.canvas",
     "Untitled.canvas",
     "img/simple_present_tense.png",
