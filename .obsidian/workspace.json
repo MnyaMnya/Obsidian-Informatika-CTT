@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/9.RISC and CISC.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/9.RISC and CISC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/9.RISC and CISC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md"
+                "file": "Kuliah/Arsiktetur komputer/Basic computer interaction/9.RISC and CISC.md"
               }
             }
           },
@@ -223,51 +223,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6915c040a853e3b",
+  "active": "5cd904e5f70e66f7",
   "lastOpenFiles": [
-    "Kuliah/Arsiktetur komputer/Index.md",
+    "img/d0ee5fae61RISC-and-CISC.png",
+    "img/Ed2c7B1bdDScreenshot-210.png",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/9.RISC and CISC.md",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/Ed2c7B1bdDScreenshot-210.png",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/d0ee5fae61RISC-and-CISC.png",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files",
+    "Kuliah/Arsiktetur komputer/Microprogrammed Control/5. Hard-Wired vs Micro-programmed control unit.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/9.RISC and CISC.md",
+    "Kuliah/Arsitektur Komputer/Microprogrammed Control/5. Hard-Wired vs Micro-programmed Control Unit.md",
+    "Kuliah/Arsitektur Komputer/Microprogrammed Control",
+    "Kuliah/Arsitektur Komputer",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/8b. Instruction set in SIC.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/8. Simplified Interaction Computer.md",
+    "Simplified Interaction Computer.md",
     "Kuliah/Arsiktetur komputer/Basic computer interaction/7. Program and Hardware Interaction.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/5. Computer Organization Von Neumann architecture.md",
+    "Kuliah/Arsiktetur komputer/Microprogrammed Control/7. Performance of Computer.md",
     "Kuliah/Arsiktetur komputer/Basic computer interaction/3. Adressing Modes.md",
     "Kuliah/Arsiktetur komputer/Basic computer interaction/4. Memory based vs Register Based.md",
-    "Kuliah/Arsiktetur komputer/Basic computer interaction/2. ASM vs HIGH level lang.md",
-    "Kuliah/Arsiktetur komputer/Basic computer interaction/6. Harvard Architecture.md",
-    "Kuliah/Arsiktetur komputer/Basic computer interaction/5. Computer Organization Von Neumann architecture.md",
     "Kuliah/Arsiktetur komputer/Basic computer interaction/1b. Apa itu CPU.md",
     "Kuliah/Arsiktetur komputer/Basic computer interaction/1. Apa itu komputer.md",
-    "3.` `Adressing.md",
-    "3..md",
+    "img/Fda2AB6C2eharvard.png",
+    "img/Fd7D2570A8123-6.png",
+    "img/F98Af8B238co-300x159.png",
+    "img/e2CaA0DC5A666666.png",
+    "img/d664a023d0Addressing_Modes_2.jpg",
+    "img/b07EF4cDC7vn_cpu.png",
+    "img/af8A0AEF8FAddressing_Modes_1.jpg",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/8. Simplified Interaction Computer.md",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/7. Program and Hardware Interaction.md",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/6. Harvard Architecture.md",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/5. Computer Organization Von Neumann architecture.md",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/3. Adressing Modes.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/Img_To_Local_Python.log",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/main.py",
+    "Kuliah/Arsiktetur komputer/Index.md",
+    "Kuliah/Arsiktetur komputer/External_Imgs_to_Local_Files/7. Performance of Computer.md",
+    "Kuliah/Arsiktetur komputer/Microprogrammed Control/Img_To_Local_Python.log",
+    "Kuliah/Arsiktetur komputer/Microprogrammed Control/main.py",
+    "Kuliah/Arsiktetur komputer/Microprogrammed Control",
+    "Kuliah/Arsiktetur komputer/Interaction Design and Format",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/2. ASM vs HIGH level lang.md",
     "Kuliah/Arsiktetur komputer/Part 2.md",
     "Kuliah/Arsiktetur komputer/Part 1.md",
+    "Kuliah/Arsiktetur komputer/Basic computer interaction/6. Harvard Architecture.md",
     "Kuliah/Arsiktetur komputer/Basic computer interaction",
-    "SQL/Data type SQL.md",
-    "SQL/Data type.md",
-    "Kuliah/Statistika/Pengantar/Jenis Data/Kualitatif.md",
-    "VSRG/Guideline.md",
-    "SQL",
-    "Kuliah/Statistika/Pengantar/Jenis Data/Kuantitatif.md",
-    "Kuliah/Statistika/Pengantar/Jenis data.md",
-    "Kuliah/Statistika/Pengantar/Skala pengukuran.md",
-    "Kuliah/Statistika/Pengantar/Sumber data.md",
-    "Kuliah/Statistika/Pengorganisasian Data/Distribusi frekuensi.md",
-    "Kuliah/Statistika/Penyusunan data/Jenis table/Table satu arah.md",
-    "Kuliah/Statistika/Penyusunan data/Jenis table/Table 2 arah.md",
-    "Kuliah/Statistika/Penyusunan data/Jenis table/Table kontigensi.md",
-    "img/simple_present_tense 1.png",
-    "VSRG",
-    "Kuliah/Struktur Data/Part 2.md",
-    "Kuliah/Statistika/Jenis pengukuran",
-    "img/1 wbYRk65-lnwsWYSFJ656xw.png",
-    "img/tux.png",
-    "img/simple-present-tense.png",
-    "Kuliah/Struktur Data",
-    "Kuliah/Statistika/Penyusunan data/Jenis table",
-    "Kuliah/Statistika/Pengantar/Jenis Data",
-    "Kuliah/Statistika/Penyusunan data",
-    "Kuliah/Statistika/Pengorganisasian Data",
-    "Kuliah/Statistika/Pengantar",
     "Kuliah/Semester I/Lkmm/Mind map.canvas",
     "Untitled.canvas",
-    "img/simple_present_tense.png",
     "Untitled.sync-conflict-20230907-211457-OKCGH4R.canvas",
     "Untitled 1.canvas"
   ]

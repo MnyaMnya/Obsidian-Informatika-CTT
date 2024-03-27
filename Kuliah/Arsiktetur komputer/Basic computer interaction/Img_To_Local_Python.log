@@ -1,0 +1,60 @@
+INFO:root:New folder created: D:\Note\Note\Kuliah\Arsiktetur komputer\External_Imgs_to_Local_Files
+
+INFO:root:to receive the imgs and edited markdown files
+
+INFO:root:Opened file: 1. Apa itu komputer.md
+
+INFO:root:Closed file: 1. Apa itu komputer.md
+
+INFO:root:Opened file: 1b. Apa itu CPU.md
+
+INFO:root:Closed file: 1b. Apa itu CPU.md
+
+INFO:root:Opened file: 2. ASM vs HIGH level lang.md
+
+INFO:root:Closed file: 2. ASM vs HIGH level lang.md
+
+INFO:root:Opened file: 3. Adressing Modes.md
+
+INFO:root:Closed file: 3. Adressing Modes.md
+
+INFO:root:Opened file: 4. Memory based vs Register Based.md
+
+INFO:root:Closed file: 4. Memory based vs Register Based.md
+
+INFO:root:Opened file: 5. Computer Organization Von Neumann architecture.md
+
+INFO:root:Closed file: 5. Computer Organization Von Neumann architecture.md
+
+INFO:root:Opened file: 6. Harvard Architecture.md
+
+INFO:root:Closed file: 6. Harvard Architecture.md
+
+INFO:root:Opened file: 7. Program and Hardware Interaction.md
+
+INFO:root:Closed file: 7. Program and Hardware Interaction.md
+
+INFO:root:Opened file: 8. Simplified Interaction Computer.md
+
+INFO:root:Closed file: 8. Simplified Interaction Computer.md
+
+INFO:root:Opened file: 8b. Instruction set in SIC.md
+
+INFO:root:Closed file: 8b. Instruction set in SIC.md
+
+INFO:root:Opened file: 9.RISC and CISC.md
+
+INFO:root:replaced: https://media.geeksforgeeks.org/wp-content/uploads/20240313171140/RISC-and-CISC.png
+with: d0ee5fae61RISC-and-CISC.png
+on file: 9.RISC and CISC.md
+
+INFO:root:replaced: https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-210.png
+with: Ed2c7B1bdDScreenshot-210.png
+on file: 9.RISC and CISC.md
+
+INFO:root:Closed file: 9.RISC and CISC.md
+
+INFO:root:Skipped file: Img_To_Local_Python.log
+
+INFO:root:Skipped file: main.py
+

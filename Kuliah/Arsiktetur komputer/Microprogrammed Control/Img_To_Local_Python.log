@@ -1,0 +1,20 @@
+INFO:root:New folder created: D:\Note\Note\Kuliah\Arsiktetur komputer\External_Imgs_to_Local_Files
+
+INFO:root:to receive the imgs and edited markdown files
+
+INFO:root:Opened file: 7. Performance of Computer.md
+
+INFO:root:replaced: https://media.geeksforgeeks.org/wp-content/cdn-uploads/33333.png
+with: AA2eB8dcEf33333.png
+on file: 7. Performance of Computer.md
+
+INFO:root:replaced: https://media.geeksforgeeks.org/wp-content/cdn-uploads/666666.png
+with: 1Cf7b9eE7e666666.png
+on file: 7. Performance of Computer.md
+
+INFO:root:Closed file: 7. Performance of Computer.md
+
+INFO:root:Skipped file: Img_To_Local_Python.log
+
+INFO:root:Skipped file: main.py
+
