@@ -36,10 +36,10 @@ BUS System
 
 CPU structure
 - control unit
-  - Control the operation of the cpu
+  - Control the operation of the cpu at
 - arithmetic and logic unit
-  - perform the processing
+  - perform the processing wa
 - register
  - provide internal storage to the cpu
 - CPU interconnection
- - mechanism that provide communication among all other structure
+ - mechanism that provide communication among all other we gotta
