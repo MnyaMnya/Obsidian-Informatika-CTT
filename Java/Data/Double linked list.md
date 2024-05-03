@@ -32,7 +32,7 @@ public class Node {
 Now we need to create a doubly linked list class that will contain two variables head and tail which will be referenced to the first and last node of the list respectively and also a constructor which will initialize both head and tail to the null.
 
 ```java
-public class `DoublyLinkedList {
+public class DoublyLinkedList {
 
     Node head;
 
@@ -535,9 +535,15 @@ class GFG {
 
 **Output**
 
-After insertion at tail: 1 --> 2 --> 3 --> 4 --> 5 --> NULL
-After insertion at head: 0 --> 1 --> 2 --> 3 --> 4 --> 5 --> NULL
-After insertion at 2nd position: 0 --> 6 --> 1 --> 2 --> 3 --> 4 --> 5 --> NULL
-After deletion at the beginning: 6 --> 1 --> 2 --> 3 --> 4 --> 5 --> NULL
-After deletion at the end: 6 --> 1 --> 2 --> 3 --> 4 --> NULL
-After deletion at 2nd position: 6 --> 2 --> 3 --> 4 --> NULL
+After insertion at tail: 
+1 --> 2 --> 3 --> 4 --> 5 --> NULL
+After insertion at head: 
+0 --> 1 --> 2 --> 3 --> 4 --> 5 --> NULL
+After insertion at 2nd position: 
+0 --> 6 --> 1 --> 2 --> 3 --> 4 --> 5 --> NULL
+After deletion at the beginning: 
+6 --> 1 --> 2 --> 3 --> 4 --> 5 --> NULL
+After deletion at the end: 
+6 --> 1 --> 2 --> 3 --> 4 --> NULL
+After deletion at 2nd position: 
+6 --> 2 --> 3 --> 4 --> NULL

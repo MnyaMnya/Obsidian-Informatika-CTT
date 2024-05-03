@@ -8,19 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b391c34c39888535",
+            "id": "330866cab40fe3bb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuliah/Struktur Data/Part 2.md",
+                "file": "Kuliah/Arsiktetur komputer/Microprogrammed Control/7. Performance of Computer.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "99d8224f6465bb3e",
+            "id": "8ea0bef4c3b631d6",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -28,79 +30,7 @@
             }
           },
           {
-            "id": "4d2bf7d7eee6114e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuliah/Statistika/Jenis pengukuran/Distribusi normal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "495732acc9b58560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuliah/A.I/Reasoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebb00d728c75de68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kuliah/Arsiktetur komputer/Part 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8982adab2cfe869b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Data/Iterator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfa80946ae8cb4e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Data/Linked List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2baf4ace7f67486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Data/Linked List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "330866cab40fe3bb",
+            "id": "e9bbfd58d7be36bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a46fe9f20d71c8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other-Note/Statistics/1. Probability Theory/0. Basic Probability Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/Data/Double linked list.md",
+            "file": "Other-Note/Statistics/1. Probability Theory/0. Basic Probability Rules.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -207,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Java/Data/Double linked list.md",
+            "file": "Other-Note/Statistics/1. Probability Theory/0. Basic Probability Rules.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -219,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Java/Data/Double linked list.md"
+            "file": "Other-Note/Statistics/1. Probability Theory/0. Basic Probability Rules.md"
           }
         }
       },
@@ -264,34 +206,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "330866cab40fe3bb",
+  "active": "a46fe9f20d71c8b3",
   "lastOpenFiles": [
-    "Java/Data/Linked List.md",
-    "Other-Note/Programming Languages/Java/2. Collections/0. List.md",
+    "Other-Note/Statistics/1. Probability Theory/Questions sheet.md",
+    "Other-Note/Statistics/1. Probability Theory/0. Basic Probability Rules.md",
+    "Other-Note/Statistics/0. Basic/1. Types of Data.md",
+    "Other-Note/Statistics/0. Basic/0. Overview.md",
+    "Other-Note/Artificial Intelligence/Machine Learning/Stats/Models/6. Neural Network Learning.md",
+    "Other-Note/Statistics/2. Statistical Inference/3. Neural Network/0. Neural Network Learning.md",
+    "Other-Note/Statistics/1. Probability Theory/1. Probability Distributions.md",
+    "Kuliah/Statistika/Probabilitas/Kombinasi.md",
+    "Kuliah/Statistika/Probabilitas/Permutasi.md",
+    "Other-Note/Statistics/1. Probability Theory/5. Maximum Likelihood Estimation.md",
+    "Kuliah/Statistika/Probabilitas",
+    "Other-Note/Statistics/1. Probability Theory/4. Likelihood function.md",
+    "Other-Note/Statistics/1. Probability Theory/3. Probability Density Function.md",
+    "Other-Note/Statistics/1. Probability Theory/2. Central Limit Theorem.md",
+    "Other-Note/Statistics/0. Basic/4. Data Analysis and Visualization.md",
+    "Other-Note/Artificial Intelligence/Machine Learning/Algorithm/1. Linear Regression.md",
+    "Other-Note/Statistics/2. Statistical Inference/4. Regression/0. Linear Regression.md",
+    "Kuliah/Statistika/Jenis pengukuran/Keruncingan data.md",
+    "Kuliah/Statistika/Pengantar/Jenis data.md",
+    "Kuliah/Statistika/Pengantar/Skala pengukuran.md",
+    "Kuliah/Statistika/Penyusunan data/Jenis table/Table satu arah.md",
+    "Kuliah/Statistika/Jenis pengukuran/Skewness.md",
     "Java/Data/Double linked list.md",
-    "Other-Note/Programming Languages/Java/2. Collections/8. Queue.md",
-    "Other-Note/Programming Languages/Java/2. Collections/5. TreeMap.md",
-    "Other-Note/Programming Languages/Html-CSS-JavaScript/HTML-CSS/HTML.md",
-    "Other-Note/Programming Languages/Html-CSS-JavaScript/HTML-CSS/Emmet.md",
-    "Other-Note/Programming Languages/Html-CSS-JavaScript/HTML-CSS/CSS.md",
-    "Other-Note/Programming Languages/Assembly/2. Basic Syntax.md",
-    "Other-Note/Programming Languages/Assembly/0. Concepts.md",
-    "Other-Note/Git/1. Init & Config.md",
-    "Other-Note/Git/0. Concepts.md",
-    "Java/Array/Array.md",
-    "Java/Example Of Code/Hello World.md",
+    "Java/Data/ArrayList.md",
+    "Java/Data/Linked List.md",
+    "Java/Data/List.md",
     "Java/Example Of Code/CodeWars-Text Align Justify.md",
-    "Java/Class/Interface.md",
-    "Java/Class/OOP.md",
-    "Java/Class/Inner Class.md",
-    "Java/Class/Method.md",
-    "Java/Method.md",
-    "Java/Method/Method Parameter.md",
-    "Java/Method/Method.md",
-    "Java/Method/Scope.md",
-    "Kuliah/Arsiktetur komputer/Part 1.md",
-    "Kuliah/Arsiktetur komputer/Part 2.md",
-    "Kuliah/Arsiktetur komputer/Index.md",
     "Kuliah/Statistika/Jenis pengukuran",
     "Kuliah/Statistika/Pengukuran dispersi",
     "Kuliah/Statistika/Pengorganisasian Data",
@@ -301,7 +244,6 @@
     "Kuliah/Statistika/Pengantar/Jenis Data",
     "Kuliah/Struktur Data",
     "Kuliah/Semester I/Jaringan Komputer/Networking",
-    "Kuliah/Semester I/English/Common tense",
     "Kuliah/Semester I/Lkmm/Mind map.canvas",
     "Kuliah/Lkmm/Mind map.canvas",
     "Untitled.canvas",
